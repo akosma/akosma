@@ -14,7 +14,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Reboot](https://akos.ma/reboot/)
 - [Courage](https://akos.ma/courage/)
 - [Adrian Kosmaczewski](https://akos.ma/about/)
-<!-- BLOG-POST-LIST:END -->>
+<!-- BLOG-POST-LIST:END -->
 
 ## Interests
 
