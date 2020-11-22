@@ -9,11 +9,11 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Latest Entries in akos.ma
 
 <!-- BLOG-POST-LIST:START -->
+- [The Next Big Thing](https://akos.ma/the-next-big-thing/)
 - [VSHN.timer](https://akos.ma/vshn.timer/)
 - [Migrating from macOS to Linux](https://akos.ma/migrating-from-macos-to-linux/)
 - [Reboot](https://akos.ma/reboot/)
 - [Courage](https://akos.ma/courage/)
-- [Adrian Kosmaczewski](https://akos.ma/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Interests
