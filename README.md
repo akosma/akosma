@@ -19,6 +19,11 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Latest De Programmatica Ipsum Articles
 
 <!-- DEPROGIPSUM:START -->
+- [Issue #26: Hardware](https://deprogrammaticaipsum.com/issue-26-hardware/)
+- [Breaking The 3 GHz Barrier](https://deprogrammaticaipsum.com/breaking-the-3-ghz-barrier/)
+- [The Untimely Demise Of Workstations](https://deprogrammaticaipsum.com/the-untimely-demise-of-workstations/)
+- [Peter Norton](https://deprogrammaticaipsum.com/peter-norton/)
+- [Issue #25: Smalltalk](https://deprogrammaticaipsum.com/issue-25-smalltalk/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
