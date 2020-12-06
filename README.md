@@ -8,13 +8,18 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 
 ## Latest Entries in akos.ma
 
-<!-- BLOG-POST-LIST:START -->
+<!-- AKOSMA:START -->
 - [Search Engine for akos.ma](https://akos.ma/search-engine-for-akos.ma/)
 - [Somebody Call an Asciidoctor](https://akos.ma/somebody-call-an-asciidoctor/)
 - [The Next Big Thing](https://akos.ma/the-next-big-thing/)
 - [VSHN.timer](https://akos.ma/vshn.timer/)
 - [Migrating from macOS to Linux](https://akos.ma/migrating-from-macos-to-linux/)
-<!-- BLOG-POST-LIST:END -->
+<!-- AKOSMA:END -->
+
+## Latest De Programmatica Ipsum Articles
+
+<!-- DEPROGIPSUM:START -->
+<!-- DEPROGIPSUM:END -->
 
 ## Interests
 
