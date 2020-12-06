@@ -16,3 +16,4 @@ jobs:
           comment_tag_name: "DEPROGIPSUM"
           commit_message: "Updated readme with the latest De Programmatica Ipsum articles"
           feed_list: "https://deprogrammaticaipsum.com/rss"
+          max_post_count: 4
