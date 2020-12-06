@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: akos.ma workflow
 on:
   schedule:
     # https://crontab.guru/#59_1_*_*_*/1
