@@ -19,10 +19,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #26: Hardware](https://deprogrammaticaipsum.com/issue-26-hardware/)
-- [Breaking The 3 GHz Barrier](https://deprogrammaticaipsum.com/breaking-the-3-ghz-barrier/)
-- [The Untimely Demise Of Workstations](https://deprogrammaticaipsum.com/the-untimely-demise-of-workstations/)
-- [Peter Norton](https://deprogrammaticaipsum.com/peter-norton/)
+- [Issue #27: Networking](https://deprogrammaticaipsum.com/issue-27-networking/)
+- [The Network Is The Computer](https://deprogrammaticaipsum.com/the-network-is-the-computer/)
+- [Sniffing Packets](https://deprogrammaticaipsum.com/sniffing-packets/)
+- [Steve McConnell](https://deprogrammaticaipsum.com/steve-mcconnell/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
