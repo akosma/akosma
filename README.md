@@ -9,11 +9,11 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
-- [Starting a Typescript CLI Project from Scratch](https://akos.ma/starting-a-typescript-cli-project-from-scratch/)
-- [Search Engine for akos.ma](https://akos.ma/search-engine-for-akos.ma/)
-- [Somebody Call an Asciidoctor](https://akos.ma/somebody-call-an-asciidoctor/)
-- [The Next Big Thing](https://akos.ma/the-next-big-thing/)
-- [VSHN.timer](https://akos.ma/vshn.timer/)
+- [Starting a Typescript CLI Project from Scratch](/starting-a-typescript-cli-project-from-scratch/)
+- [Search Engine for akos.ma](/search-engine-for-akos.ma/)
+- [Somebody Call an Asciidoctor](/somebody-call-an-asciidoctor/)
+- [The Next Big Thing](/the-next-big-thing/)
+- [VSHN.timer](/vshn.timer/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
