@@ -19,10 +19,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #27: Networking](https://deprogrammaticaipsum.com/issue-27-networking/)
-- [The Network Is The Computer](https://deprogrammaticaipsum.com/the-network-is-the-computer/)
-- [Sniffing Packets](https://deprogrammaticaipsum.com/sniffing-packets/)
-- [Steve McConnell](https://deprogrammaticaipsum.com/steve-mcconnell/)
+- [Issue #28: Programming As A Hobby](https://deprogrammaticaipsum.com/issue-28-programming-as-a-hobby/)
+- [Specialization Is For Insects](https://deprogrammaticaipsum.com/specialization-is-for-insects/)
+- [ZX2020](https://deprogrammaticaipsum.com/zx2020/)
+- [Michael Hiltzik](https://deprogrammaticaipsum.com/michael-hiltzik/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
