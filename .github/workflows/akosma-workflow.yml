@@ -16,3 +16,4 @@ jobs:
           comment_tag_name: "AKOSMA"
           commit_message: "Updated readme with the latest akos.ma articles"
           feed_list: "https://akos.ma/index.xml"
+          max_post_count: 4
