@@ -25,6 +25,11 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Michael Hiltzik](https://deprogrammaticaipsum.com/michael-hiltzik/)
 <!-- DEPROGIPSUM:END -->
 
+## Videos: VSHN.timer
+
+<!-- VSHNTIMER:START -->
+<!-- VSHNTIMER:END -->
+
 ## Interests
 
 <img align="left" alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"> <img align="left" alt="Windows" src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge"> <img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> <img alt="Dot net" align="left" src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white"> <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"> <img align="left" alt="C plus plus" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">
