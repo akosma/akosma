@@ -13,7 +13,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [How to Desperately Suck at Cliches](https://akos.ma/how-to-desperately-suck-at-cliches/)
 - [Manifestos and Checklists](https://akos.ma/manifestos-and-checklists/)
 - [Starting a Typescript CLI Project from Scratch](https://akos.ma/starting-a-typescript-cli-project-from-scratch/)
-- [Search Engine for akos.ma](https://akos.ma/search-engine-for-akos.ma/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
