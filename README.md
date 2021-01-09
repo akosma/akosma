@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Touch Typing](https://akos.ma/touch-typing/)
 - [Programmable Calculators](https://akos.ma/programmable-calculators/)
 - [How to Desperately Suck at Cliches](https://akos.ma/how-to-desperately-suck-at-cliches/)
 - [Manifestos and Checklists](https://akos.ma/manifestos-and-checklists/)
-- [Starting a Typescript CLI Project from Scratch](https://akos.ma/starting-a-typescript-cli-project-from-scratch/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
