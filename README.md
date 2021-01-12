@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Videos: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #75: Dealing with Catastrophe](https://www.youtube.com/watch?v=95sq116JEvc)
 - [VSHN.timer #74: Kubernetes 2021](https://www.youtube.com/watch?v=P9ZKqXNZfrg)
 - [VSHN.timer #73: Advent Calendars for Geeks](https://www.youtube.com/watch?v=JWXzmP0x7_k)
 - [VSHN.timer #72: Unix and Linux](https://www.youtube.com/watch?v=Gh94pF1JK6A)
-- [VSHN.timer #71: Containers Beyond Docker](https://www.youtube.com/watch?v=EypJsaeHTSE)
 <!-- VSHNTIMER:END -->
 
 ## Interests
