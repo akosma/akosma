@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Job Interviews](https://akos.ma/job-interviews/)
 - [Bugs](https://akos.ma/bugs/)
 - [Touch Typing](https://akos.ma/touch-typing/)
 - [Programmable Calculators](https://akos.ma/programmable-calculators/)
-- [How to Desperately Suck at Cliches](https://akos.ma/how-to-desperately-suck-at-cliches/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
