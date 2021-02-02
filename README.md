@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #28: Programming As A Hobby](https://deprogrammaticaipsum.com/issue-28-programming-as-a-hobby/)
-- [Specialization Is For Insects](https://deprogrammaticaipsum.com/specialization-is-for-insects/)
-- [ZX2020](https://deprogrammaticaipsum.com/zx2020/)
-- [Michael Hiltzik](https://deprogrammaticaipsum.com/michael-hiltzik/)
+- [Issue #29: Internet Of Things](https://deprogrammaticaipsum.com/issue-29-internet-of-things/)
+- [Internet Of Unusable Things](https://deprogrammaticaipsum.com/internet-of-unusable-things/)
+- [On The Need Of Regulation In The IoT Industry](https://deprogrammaticaipsum.com/on-the-need-of-regulation-in-the-iot-industry/)
+- [Douglas Hofstadter](https://deprogrammaticaipsum.com/douglas-hofstadter/)
 <!-- DEPROGIPSUM:END -->
 
 ## Videos: VSHN.timer
