@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Videos: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #79: The Architecture Of Cloud Native Apps](https://www.youtube.com/watch?v=6Dx7d0Sq58E)
 - [VSHN.timer #78: Prometheus and Grafana](https://www.youtube.com/watch?v=GFNKyHqJQvI)
 - [VSHN.timer #77: Write That Code](https://www.youtube.com/watch?v=tVnLHn-hIes)
 - [VSHN.timer #76: The Age of Insecurity](https://www.youtube.com/watch?v=D3nlCPiyrkg)
-- [VSHN.timer #75: Dealing with Catastrophe](https://www.youtube.com/watch?v=95sq116JEvc)
 <!-- VSHNTIMER:END -->
 
 ## Interests
