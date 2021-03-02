@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #29: Internet Of Things](https://deprogrammaticaipsum.com/issue-29-internet-of-things/)
-- [Internet Of Unusable Things](https://deprogrammaticaipsum.com/internet-of-unusable-things/)
-- [On The Need Of Regulation In The IoT Industry](https://deprogrammaticaipsum.com/on-the-need-of-regulation-in-the-iot-industry/)
-- [Douglas Hofstadter](https://deprogrammaticaipsum.com/douglas-hofstadter/)
+- [Issue #30: Home Office](https://deprogrammaticaipsum.com/issue-30-home-office/)
+- [Await! In Async We Trust](https://deprogrammaticaipsum.com/await-in-async-we-trust/)
+- [Your Place or Mine?](https://deprogrammaticaipsum.com/your-place-or-mine/)
+- [Gerald Weinberg](https://deprogrammaticaipsum.com/gerald-weinberg/)
 <!-- DEPROGIPSUM:END -->
 
 ## Videos: VSHN.timer
