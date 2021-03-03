@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Videos: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #82: Kubernetes Autopilot And Terraform](https://www.youtube.com/watch?v=H5eX1iunQ24)
 - [VSHN.timer #81: Podman vs. Docker; Face-Off!](https://www.youtube.com/watch?v=1UnkRojeEGw)
 - [VSHN.timer #80: Hardware](https://www.youtube.com/watch?v=HPX1s3ig2QE)
 - [VSHN.timer #79: The Architecture Of Cloud Native Apps](https://www.youtube.com/watch?v=6Dx7d0Sq58E)
-- [VSHN.timer #78: Prometheus and Grafana](https://www.youtube.com/watch?v=GFNKyHqJQvI)
 <!-- VSHNTIMER:END -->
 
 ## Interests
