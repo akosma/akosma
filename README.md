@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Pascal](https://akos.ma/pascal/)
 - [Teaching](https://akos.ma/teaching/)
 - [Mentors](https://akos.ma/mentors/)
 - [Opinionated](https://akos.ma/opinionated/)
-- [The Agile Invasion](https://akos.ma/the-agile-invasion/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
