@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #30: Home Office](https://deprogrammaticaipsum.com/issue-30-home-office/)
-- [Await! In Async We Trust](https://deprogrammaticaipsum.com/await-in-async-we-trust/)
-- [Your Place or Mine?](https://deprogrammaticaipsum.com/your-place-or-mine/)
-- [Gerald Weinberg](https://deprogrammaticaipsum.com/gerald-weinberg/)
+- [Issue #31: English Language](https://deprogrammaticaipsum.com/issue-31-english-language/)
+- [The English-Likeness Monster](https://deprogrammaticaipsum.com/the-english-likeness-monster/)
+- [The Winner Takes It All](https://deprogrammaticaipsum.com/the-winner-takes-it-all/)
+- [Jef Raskin](https://deprogrammaticaipsum.com/jef-raskin/)
 <!-- DEPROGIPSUM:END -->
 
 ## Videos: VSHN.timer
