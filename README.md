@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #31: English Language](https://deprogrammaticaipsum.com/issue-31-english-language/)
-- [The English-Likeness Monster](https://deprogrammaticaipsum.com/the-english-likeness-monster/)
-- [The Winner Takes It All](https://deprogrammaticaipsum.com/the-winner-takes-it-all/)
-- [Jef Raskin](https://deprogrammaticaipsum.com/jef-raskin/)
+- [Issue #32: Modernism](https://deprogrammaticaipsum.com/issue-32-modernism/)
+- [The Great Rewriting In Rust](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
+- [Plus Ça Change…](https://deprogrammaticaipsum.com/plus-ca-change/)
+- [Eric Sink](https://deprogrammaticaipsum.com/eric-sink/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
