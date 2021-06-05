@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Vaccines and Software Developers](https://akos.ma/vaccines-and-software-developers/)
 - [A Compilation of Old Blog Posts](https://akos.ma/a-compilation-of-old-blog-posts/)
 - [First Web App in Rust](https://akos.ma/first-web-app-in-rust/)
 - [Generic Enum Type in Rust](https://akos.ma/generic-enum-type-in-rust/)
-- [Specialized Generic Methods in Rust](https://akos.ma/specialized-generic-methods-in-rust/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
