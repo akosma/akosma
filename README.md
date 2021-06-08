@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #32: Modernism](https://deprogrammaticaipsum.com/issue-32-modernism/)
-- [The Great Rewriting In Rust](https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/)
-- [Plus Ça Change…](https://deprogrammaticaipsum.com/plus-ca-change/)
-- [Eric Sink](https://deprogrammaticaipsum.com/eric-sink/)
+- [Issue #33: Management](https://deprogrammaticaipsum.com/issue-33-management/)
+- [On The Absence Of Management](https://deprogrammaticaipsum.com/on-the-absence-of-management/)
+- [The Impossible Dialogue](https://deprogrammaticaipsum.com/the-impossible-dialogue/)
+- [Camille Fournier](https://deprogrammaticaipsum.com/camille-fournier/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
