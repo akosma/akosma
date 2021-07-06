@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #33: Management](https://deprogrammaticaipsum.com/issue-33-management/)
-- [On The Absence Of Management](https://deprogrammaticaipsum.com/on-the-absence-of-management/)
-- [The Impossible Dialogue](https://deprogrammaticaipsum.com/the-impossible-dialogue/)
-- [Camille Fournier](https://deprogrammaticaipsum.com/camille-fournier/)
+- [Issue #34: Job Market](https://deprogrammaticaipsum.com/issue-34-job-market/)
+- [Corals And Sharks](https://deprogrammaticaipsum.com/corals-and-sharks/)
+- [Do Not Ask Me About How Interviewing Works](https://deprogrammaticaipsum.com/do-not-ask-me-about-how-interviewing-works/)
+- [Chad Fowler](https://deprogrammaticaipsum.com/chad-fowler/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
