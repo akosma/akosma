@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Removing Singletons](https://akos.ma/blog/removing-singletons/)
 - [Testing LDAP](https://akos.ma/blog/testing-ldap/)
 - [More Rust Stuff](https://akos.ma/blog/more-rust-stuff/)
 - [Joplin for Note Taking](https://akos.ma/blog/joplin-for-note-taking/)
-- [No Cookie Popup](https://akos.ma/blog/no-cookie-popup/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
