@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Video Editing in Linux](https://akos.ma/blog/video-editing-in-linux/)
 - [Password Hashing in Django](https://akos.ma/blog/password-hashing-in-django/)
 - [Removing Singletons](https://akos.ma/blog/removing-singletons/)
 - [Testing LDAP](https://akos.ma/blog/testing-ldap/)
-- [More Rust Stuff](https://akos.ma/blog/more-rust-stuff/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
