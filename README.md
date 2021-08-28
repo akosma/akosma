@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Radio Silence](https://akos.ma/blog/radio-silence/)
 - [Computers Bundled With Linux](https://akos.ma/blog/computers-bundled-with-linux/)
 - [Fibonacci](https://akos.ma/blog/fibonacci/)
 - [Alpine Linux in VirtualBox](https://akos.ma/blog/alpine-linux-in-virtualbox/)
-- [Video Editing in Linux](https://akos.ma/blog/video-editing-in-linux/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
