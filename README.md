@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #35: Python](https://deprogrammaticaipsum.com/issue-35-python/)
-- [Majoring In Versions](https://deprogrammaticaipsum.com/majoring-in-versions/)
-- [The State Of Python In 2021](https://deprogrammaticaipsum.com/the-state-of-python-in-2021/)
-- [Tim Peters](https://deprogrammaticaipsum.com/tim-peters/)
+- [Issue #36: Innovation](https://deprogrammaticaipsum.com/issue-36-innovation/)
+- [InnovationScript](https://deprogrammaticaipsum.com/innovationscript/)
+- [Innovation To What End?](https://deprogrammaticaipsum.com/innovation-to-what-end/)
+- [Douglas Crockford](https://deprogrammaticaipsum.com/douglas-crockford/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
