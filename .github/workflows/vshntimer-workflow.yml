@@ -1,0 +1,19 @@
+name: VSHN.timer workflow
+on:
+  schedule:
+    # https://crontab.guru/#59_1_*_*_*/1
+    - cron: '59 1 * * */1'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-vshntimer:
+    name: Update this repo's README with latest articles from the VSHN.timer series
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "VSHNTIMER"
+          commit_message: "Updated readme with the latest VSHN.timer articles"
+          feed_list: "https://www.vshn.ch/vshn-timer-rss.xml"
+          max_post_count: 4
