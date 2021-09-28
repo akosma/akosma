@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #110: Continuous DevOps](https://vshn.ch/blog/vshn-timer-110-continuous-devops/)
 - [VSHN.timer #109: I Heard You Like Clusters](https://vshn.ch/blog/vshn-timer-109-i-heard-you-like-clusters/)
 - [VSHN.timer #108: Podman Forever](https://vshn.ch/blog/vshn-timer-108-podman-forever/)
 - [VSHN.timer #107: Planning for Incidents and Operations](https://vshn.ch/blog/vshn-timer-107-planning-for-incidents-and-operations/)
-- [VSHN.timer #106: Cloud Security Basics](https://vshn.ch/blog/vshn-timer-106-cloud-security-basics/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
