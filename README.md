@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #36: Innovation](https://deprogrammaticaipsum.com/issue-36-innovation/)
-- [InnovationScript](https://deprogrammaticaipsum.com/innovationscript/)
-- [Innovation To What End?](https://deprogrammaticaipsum.com/innovation-to-what-end/)
-- [Douglas Crockford](https://deprogrammaticaipsum.com/douglas-crockford/)
+- [Issue #37: Microsoft](https://deprogrammaticaipsum.com/issue-37-microsoft/)
+- [Putting The $ In Micro$oft](https://deprogrammaticaipsum.com/putting-the-dollar-sign-in-microsoft/)
+- [Where Does Microsoft Want To Go Today?](https://deprogrammaticaipsum.com/where-does-microsoft-want-to-go-today/)
+- [Microsoft’s Writings On Security](https://deprogrammaticaipsum.com/microsofts-writings-on-security/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
