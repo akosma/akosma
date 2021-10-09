@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Git for Non Technical Readers](https://akos.ma/blog/git-for-non-technical-readers/)
 - [Kubernetes for Non Technical Readers](https://akos.ma/blog/kubernetes-for-non-technical-readers/)
 - [Vagrant, k3s and VirtualBox](https://akos.ma/blog/vagrant-k3s-and-virtualbox/)
 - [Amazon EKS Anywhere](https://akos.ma/blog/amazon-eks-anywhere/)
-- [How to Write a Programming Book](https://akos.ma/blog/how-to-write-a-programming-book/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
