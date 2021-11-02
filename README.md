@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #37: Microsoft](https://deprogrammaticaipsum.com/issue-37-microsoft/)
-- [Putting The $ In Micro$oft](https://deprogrammaticaipsum.com/putting-the-dollar-sign-in-microsoft/)
-- [Where Does Microsoft Want To Go Today?](https://deprogrammaticaipsum.com/where-does-microsoft-want-to-go-today/)
-- [Microsoft’s Writings On Security](https://deprogrammaticaipsum.com/microsofts-writings-on-security/)
+- [Issue #38: Design By Contract](https://deprogrammaticaipsum.com/issue-38-design-by-contract/)
+- [Assertions](https://deprogrammaticaipsum.com/assertions/)
+- [How To Reason About Mutable State](https://deprogrammaticaipsum.com/how-to-reason-about-mutable-state/)
+- [Robert L. Glass](https://deprogrammaticaipsum.com/robert-l-glass/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
