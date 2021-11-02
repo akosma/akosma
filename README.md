@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #115: PostgreSQL On Kubernetes](https://www.vshn.ch/blog/vshn-timer-115-postgresql-on-kubernetes/)
 - [VSHN.timer #114: New Releases](https://www.vshn.ch/blog/vshn-timer-114-new-releases/)
 - [VSHN.timer #113: Raspberry Pi](https://www.vshn.ch/blog/vshn-timer-113-raspberry-pi/)
 - [VSHN.timer #112: Email Marketing](https://www.vshn.ch/blog/vshn-timer-112-email-marketing/)
-- [VSHN.timer #111: Databases & Storage](https://www.vshn.ch/blog/vshn-timer-111-databases-storage/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
