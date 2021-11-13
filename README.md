@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Notes About Cloud Without Compromise](https://akos.ma/blog/notes-about-cloud-without-compromise/)
 - [Poliglot Conway](https://akos.ma/blog/poliglot-conway/)
 - [Lots of VSCode Extensions](https://akos.ma/blog/lots-of-vscode-extensions/)
 - [Steve Jobs vs Bill Gates on Stage](https://akos.ma/blog/steve-jobs-vs-bill-gates-on-stage/)
-- [FFmpeg Tips and Tricks](https://akos.ma/blog/ffmpeg-tips-and-tricks/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
