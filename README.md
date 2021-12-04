@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Managing Professional Decline as a Developer](https://akos.ma/blog/managing-professional-decline-as-a-developer/)
 - [Sustainable Ebook Strategy](https://akos.ma/blog/sustainable-ebook-strategy/)
 - [The Various Styles of Standup Meetings](https://akos.ma/blog/the-various-styles-of-standup-meetings/)
 - [Notes About Cloud Without Compromise](https://akos.ma/blog/notes-about-cloud-without-compromise/)
-- [Poliglot Conway](https://akos.ma/blog/poliglot-conway/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
