@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The Wrong Question](https://akos.ma/blog/the-wrong-question/)
 - [Three Key Tenets of GNOME App UX](https://akos.ma/blog/three-key-tenets-of-gnome-app-ux/)
 - [Memories of Centralized SCMs](https://akos.ma/blog/memories-of-centralized-scms/)
 - [Languages](https://akos.ma/blog/languages/)
-- [Managing Professional Decline as a Developer](https://akos.ma/blog/managing-professional-decline-as-a-developer/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
