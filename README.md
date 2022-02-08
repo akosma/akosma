@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #40: Skeuomorphism](https://deprogrammaticaipsum.com/issue-40-skeuomorphism/)
-- [The Button And The Spoon](https://deprogrammaticaipsum.com/the-button-and-the-spoon/)
-- [We Cannot Afford To Live Without It](https://deprogrammaticaipsum.com/we-cannot-afford-to-live-without-it/)
-- [Jenifer Tidwell](https://deprogrammaticaipsum.com/jenifer-tidwell/)
+- [Issue #41: Licensing](https://deprogrammaticaipsum.com/issue-41-licensing/)
+- [Fitness For Purpose](https://deprogrammaticaipsum.com/fitness-for-purpose/)
+- [The Conquest Of Code](https://deprogrammaticaipsum.com/the-conquest-of-code/)
+- [Richard Matthew Stallman](https://deprogrammaticaipsum.com/richard-matthew-stallman/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
