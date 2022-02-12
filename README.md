@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Things That Define Big Software Companies](https://akos.ma/blog/things-that-define-big-software-companies/)
 - [Epic Trailer Songs](https://akos.ma/blog/epic-trailer-songs/)
 - [Open Letter to SaaS Apps](https://akos.ma/blog/open-letter-to-saas-apps/)
 - [Text Editors for Work](https://akos.ma/blog/text-editors-for-work/)
-- [The Argentine Brain Drain](https://akos.ma/blog/the-argentine-brain-drain/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
