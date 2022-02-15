@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #128: Will Software Security Ever Become A National Concern?](https://www.vshn.ch/blog/vshn-timer-128-will-software-security-ever-become-a-national-concern/)
 - [VSHN.timer #127: Crossplane Rising](https://www.vshn.ch/blog/vshn-timer-127-crossplane-rising/)
 - [VSHN.timer #126: The Evolution of Kubernetes](https://www.vshn.ch/blog/vshn-timer-126-the-evolution-of-kubernetes/)
 - [VSHN.timer #125: Linux 2022](https://www.vshn.ch/blog/vshn-timer-125-linux-2022/)
-- [VSHN.timer #124: Building Container Images](https://www.vshn.ch/blog/vshn-timer-124-building-container-images/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
