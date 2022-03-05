@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Ukraine](https://akos.ma/blog/ukraine/)
 - [Elixir and Phoenix Framework](https://akos.ma/blog/elixir-and-phoenix-framework/)
 - [Technology Wars](https://akos.ma/blog/technology-wars/)
 - [Things That Define Big Software Companies](https://akos.ma/blog/things-that-define-big-software-companies/)
-- [Epic Trailer Songs](https://akos.ma/blog/epic-trailer-songs/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
