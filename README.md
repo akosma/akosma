@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #41: Licensing](https://deprogrammaticaipsum.com/issue-41-licensing/)
-- [Fitness For Purpose](https://deprogrammaticaipsum.com/fitness-for-purpose/)
-- [The Conquest Of Code](https://deprogrammaticaipsum.com/the-conquest-of-code/)
-- [Richard Matthew Stallman](https://deprogrammaticaipsum.com/richard-matthew-stallman/)
+- [Issue #42: Trade Unions](https://deprogrammaticaipsum.com/issue-42-trade-unions/)
+- [Divide Et Impera](https://deprogrammaticaipsum.com/divide-et-impera/)
+- [We Deserve Better. Collectively, We Can Get It.](https://deprogrammaticaipsum.com/we-deserve-better-collectively-we-can-get-it/)
+- [Mar Hicks](https://deprogrammaticaipsum.com/mar-hicks/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
