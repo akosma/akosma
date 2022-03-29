@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #134: Designing Successful Products](https://www.vshn.ch/blog/vshn-timer-134-designing-successful-products/)
 - [VSHN.timer #133: JSON and the Argo&lpar;CD&rpar;nauts](https://www.vshn.ch/blog/vshn-timer-133-json-and-the-argocdnauts/)
 - [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/blog/vshn-timer-132-aws-in-the-spotlight/)
 - [VSHN.timer #131: Cloud Native Job Titles](https://www.vshn.ch/blog/vshn-timer-131-cloud-native-job-titles/)
-- [VSHN.timer #130: Who Monitors the Monitoring?](https://www.vshn.ch/blog/vshn-timer-130-who-monitors-the-monitoring/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
