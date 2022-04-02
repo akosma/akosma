@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [A Linker for Joel](https://akos.ma/blog/a-linker-for-joel/)
 - [Efficient Meetings](https://akos.ma/blog/efficient-meetings/)
 - [BASIC Standards](https://akos.ma/blog/basic-standards/)
 - [Gitea](https://akos.ma/blog/gitea/)
-- [Ukraine](https://akos.ma/blog/ukraine/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
