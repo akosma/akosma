@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #42: Trade Unions](https://deprogrammaticaipsum.com/issue-42-trade-unions/)
-- [Divide Et Impera](https://deprogrammaticaipsum.com/divide-et-impera/)
-- [We Deserve Better. Collectively, We Can Get It.](https://deprogrammaticaipsum.com/we-deserve-better-collectively-we-can-get-it/)
-- [Mar Hicks](https://deprogrammaticaipsum.com/mar-hicks/)
+- [Issue #43: Types](https://deprogrammaticaipsum.com/issue-43-types/)
+- [It Is Not The Types That Will Help You](https://deprogrammaticaipsum.com/it-is-not-the-types-that-will-help-you/)
+- [Apples And Oranges](https://deprogrammaticaipsum.com/apples-and-oranges/)
+- [Janet Abbate](https://deprogrammaticaipsum.com/janet-abbate/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
