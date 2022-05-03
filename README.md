@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #43: Types](https://deprogrammaticaipsum.com/issue-43-types/)
-- [It Is Not The Types That Will Help You](https://deprogrammaticaipsum.com/it-is-not-the-types-that-will-help-you/)
-- [Apples And Oranges](https://deprogrammaticaipsum.com/apples-and-oranges/)
-- [Janet Abbate](https://deprogrammaticaipsum.com/janet-abbate/)
+- [Issue #44: Mobile](https://deprogrammaticaipsum.com/issue-44-mobile/)
+- [The Law Of Diminishing Returns](https://deprogrammaticaipsum.com/the-law-of-diminishing-returns/)
+- [On The Duopoly Of Mobile](https://deprogrammaticaipsum.com/on-the-duopoly-of-mobile/)
+- [Erica Sadun](https://deprogrammaticaipsum.com/erica-sadun/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
