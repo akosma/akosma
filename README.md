@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #136: SLO Ride, Take It Easy](https://www.vshn.ch/blog/vshn-timer-136-slo-ride-take-it-easy/)
 - [VSHN.timer #135: Raise Your ARMs](https://www.vshn.ch/blog/vshn-timer-135-raise-your-arms/)
 - [VSHN.timer #134: Designing Successful Products](https://www.vshn.ch/blog/vshn-timer-134-designing-successful-products/)
 - [VSHN.timer #133: JSON and the Argo&lpar;CD&rpar;nauts](https://www.vshn.ch/blog/vshn-timer-133-json-and-the-argocdnauts/)
-- [VSHN.timer #132: AWS In The Spotlight](https://www.vshn.ch/blog/vshn-timer-132-aws-in-the-spotlight/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
