@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Fortune Apps](https://akos.ma/blog/fortune-apps/)
 - [Swiss Army](https://akos.ma/blog/swiss-army/)
 - [Cardfile.exe](https://akos.ma/blog/cardfile.exe/)
 - [Open Spaces](https://akos.ma/blog/open-spaces/)
-- [Migrating From WordPress to Hugo](https://akos.ma/blog/migrating-from-wordpress-to-hugo/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
