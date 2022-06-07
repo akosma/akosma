@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #44: Mobile](https://deprogrammaticaipsum.com/issue-44-mobile/)
-- [The Law Of Diminishing Returns](https://deprogrammaticaipsum.com/the-law-of-diminishing-returns/)
-- [On The Duopoly Of Mobile](https://deprogrammaticaipsum.com/on-the-duopoly-of-mobile/)
-- [Erica Sadun](https://deprogrammaticaipsum.com/erica-sadun/)
+- [Issue #45: Requirements](https://deprogrammaticaipsum.com/issue-45-requirements/)
+- [The Other Side Of The Card](https://deprogrammaticaipsum.com/the-other-side-of-the-card/)
+- [On Agile Requirements](https://deprogrammaticaipsum.com/on-agile-requirements/)
+- [Workers Of The &lpar;Digital&rpar; World](https://deprogrammaticaipsum.com/workers-of-the-digital-world/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
