@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [On Being a Generalist](https://akos.ma/blog/on-being-a-generalist/)
 - [Live Streaming](https://akos.ma/blog/live-streaming/)
 - [My Biggest Failure](https://akos.ma/blog/my-biggest-failure/)
 - [Fortune Apps](https://akos.ma/blog/fortune-apps/)
-- [Swiss Army](https://akos.ma/blog/swiss-army/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
