@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #143: Architectural Trends](https://www.vshn.ch/blog/vshn-timer-143-architectural-trends/)
 - [VSHN.timer #142: Kubernetes Under Attack](https://www.vshn.ch/blog/vshn-timer-142-kubernetes-under-attack/)
 - [VSHN.timer #141: The New Cloud-Native Business Landscape](https://www.vshn.ch/blog/vshn-timer-141-the-new-cloud-native-business-landscape/)
 - [VSHN.timer #140: Step Up your Learning Skills](https://www.vshn.ch/blog/vshn-timer-140-step-up-your-learning-skills/)
-- [VSHN.timer #139: What’s New in GitLab 15](https://www.vshn.ch/blog/vshn-timer-139-whats-new-in-gitlab-15/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
