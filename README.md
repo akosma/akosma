@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [My First PC](https://akos.ma/blog/my-first-pc/)
 - [Crystal is a Surprise](https://akos.ma/blog/crystal-is-a-surprise/)
 - [The New Microsoft](https://akos.ma/blog/the-new-microsoft/)
 - [Various Flatpak Tips and Tricks](https://akos.ma/blog/various-flatpak-tips-and-tricks/)
-- [The Recruitment Lottery](https://akos.ma/blog/the-recruitment-lottery/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
