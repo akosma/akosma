@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #46: Computer Museums](https://deprogrammaticaipsum.com/issue-46-computer-museums/)
-- [&lpar;Computer&rpar; Museums In Switzerland](https://deprogrammaticaipsum.com/computer-museums-in-switzerland/)
-- [The Digital Dark Ages](https://deprogrammaticaipsum.com/the-digital-dark-ages/)
-- [William Aspray](https://deprogrammaticaipsum.com/william-aspray/)
+- [Issue #47: Rust](https://deprogrammaticaipsum.com/issue-47-rust/)
+- [The Double Denim Of Software Engineering](https://deprogrammaticaipsum.com/the-double-denim-of-software-engineering/)
+- [The State Of Rust In 2022](https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/)
+- [Michael Feathers](https://deprogrammaticaipsum.com/michael-feathers/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
