@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [ILOVEYOU](https://akos.ma/blog/iloveyou/)
 - [The Book I Never Wrote](https://akos.ma/blog/the-book-i-never-wrote/)
 - [Microservices or Not? Your Team Has Already Decided](https://akos.ma/blog/microservices-or-not-your-team-has-already-decided/)
 - [Internet Explorer 4](https://akos.ma/blog/internet-explorer-4/)
-- [My First PC](https://akos.ma/blog/my-first-pc/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
