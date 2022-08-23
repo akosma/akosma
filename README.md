@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Series & Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #150: Managing your Git Projects](https://www.vshn.ch/blog/vshn-timer-150-managing-your-git-projects/)
 - [VSHN.timer #149: UDP, TTY, SEL, and AMD](https://www.vshn.ch/blog/vshn-timer-149-udp-tty-sel-and-amd/)
 - [VSHN.timer #148: Kubernetes Observability](https://www.vshn.ch/blog/vshn-timer-148-kubernetes-observability/)
 - [VSHN.timer #147: Thinking Differently](https://www.vshn.ch/blog/vshn-timer-147-thinking-differently/)
-- [VSHN.timer #146: The Case Against Kubernetes](https://www.vshn.ch/blog/vshn-timer-146-the-case-against-kubernetes/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
