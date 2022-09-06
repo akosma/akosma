@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #47: Rust](https://deprogrammaticaipsum.com/issue-47-rust/)
-- [The Double Denim Of Software Engineering](https://deprogrammaticaipsum.com/the-double-denim-of-software-engineering/)
-- [The State Of Rust In 2022](https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/)
-- [Michael Feathers](https://deprogrammaticaipsum.com/michael-feathers/)
+- [Issue #48: Evolution](https://deprogrammaticaipsum.com/issue-48-evolution/)
+- [Alan Perlis And The Evolution Of Programming Languages](https://deprogrammaticaipsum.com/alan-perlis-and-the-evolution-of-programming-languages/)
+- [Bret Victor](https://deprogrammaticaipsum.com/bret-victor/)
+- [Geoffrey G. Parker, Marshall W. Van Alstyne, &amp; Sangeet Paul Choudary](https://deprogrammaticaipsum.com/geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Series & Newsletter: VSHN.timer
