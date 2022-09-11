@@ -6,7 +6,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/akosma) [<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/akosma) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/akosma) [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://vshn.tv) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://akos.ma/index.xml)
 
-## Blog: akos.ma
+## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
 - [D, or What Go May Have Been](https://akos.ma/blog/d-or-what-go-may-have-been/)
@@ -15,7 +15,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [ILOVEYOU](https://akos.ma/blog/iloveyou/)
 <!-- AKOSMA:END -->
 
-## Magazine: De Programmatica Ipsum
+## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
 - [Issue #48: Evolution](https://deprogrammaticaipsum.com/issue-48-evolution/)
@@ -24,7 +24,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Geoffrey G. Parker, Marshall W. Van Alstyne, &amp; Sangeet Paul Choudary](https://deprogrammaticaipsum.com/geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary/)
 <!-- DEPROGIPSUM:END -->
 
-## Weekly Series & Newsletter: VSHN.timer
+## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
 - [VSHN.timer #152: The Challenges of Open Source](https://www.vshn.ch/blog/vshn-timer-152-the-challenges-of-open-source/)
