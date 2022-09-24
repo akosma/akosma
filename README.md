@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [How to Use a Microphone](https://akos.ma/blog/how-to-use-a-microphone/)
 - [The Languages That Bend Your Mind](https://akos.ma/blog/the-languages-that-bend-your-mind/)
 - [D, or What Go May Have Been](https://akos.ma/blog/d-or-what-go-may-have-been/)
 - [Best Books of 2014 to 2019](https://akos.ma/blog/best-books-of-2014-to-2019/)
-- [Reusing Apps Between Teams and Environments Through Containers](https://akos.ma/blog/reusing-apps-between-teams-and-environments-through-containers/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
