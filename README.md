@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #155: There’s Something About SQLite](https://www.vshn.ch/blog/vshn-timer-155-theres-something-about-sqlite/)
 - [VSHN.timer #154: Modern Times, Modern Work](https://www.vshn.ch/blog/vshn-timer-154-modern-times-modern-work/)
 - [VSHN.timer #153: When Dev and Ops Collide](https://www.vshn.ch/blog/vshn-timer-153-when-dev-and-ops-collide/)
 - [VSHN.timer #152: The Challenges of Open Source](https://www.vshn.ch/blog/vshn-timer-152-the-challenges-of-open-source/)
-- [VSHN.timer #151: Something about Containers](https://www.vshn.ch/blog/vshn-timer-151-something-about-containers/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
