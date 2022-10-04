@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #48: Evolution](https://deprogrammaticaipsum.com/issue-48-evolution/)
-- [Alan Perlis And The Evolution Of Programming Languages](https://deprogrammaticaipsum.com/alan-perlis-and-the-evolution-of-programming-languages/)
-- [Bret Victor](https://deprogrammaticaipsum.com/bret-victor/)
-- [Geoffrey G. Parker, Marshall W. Van Alstyne, &amp; Sangeet Paul Choudary](https://deprogrammaticaipsum.com/geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary/)
+- [Issue #49: Object-Oriented Programming](https://deprogrammaticaipsum.com/issue-49-object-oriented-programming/)
+- [The Hype Cycle Of OOP](https://deprogrammaticaipsum.com/the-hype-cycle-of-oop/)
+- [James Coplien](https://deprogrammaticaipsum.com/james-coplien/)
+- [The Gang Of Four](https://deprogrammaticaipsum.com/the-gang-of-four/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
