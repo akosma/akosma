@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Running akosma software](https://akos.ma/blog/running-akosma-software/)
 - [Comments about the AWS Serverless Workshop](https://akos.ma/blog/comments-about-the-aws-serverless-workshop/)
 - [How to Use a Microphone](https://akos.ma/blog/how-to-use-a-microphone/)
 - [The Languages That Bend Your Mind](https://akos.ma/blog/the-languages-that-bend-your-mind/)
-- [D, or What Go May Have Been](https://akos.ma/blog/d-or-what-go-may-have-been/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
