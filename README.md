@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #158: The Rise of CockroachDB](https://www.vshn.ch/blog/vshn-timer-158-the-rise-of-cockroachdb/)
 - [VSHN.timer #157: The Brand New OpenShift 4.11](https://www.vshn.ch/blog/vshn-timer-157-the-brand-new-openshift-4-11/)
 - [VSHN.timer #156: AWStruck!](https://www.vshn.ch/blog/vshn-timer-156-awstruck/)
 - [VSHN.timer #155: There’s Something About SQLite](https://www.vshn.ch/blog/vshn-timer-155-theres-something-about-sqlite/)
-- [VSHN.timer #154: Modern Times, Modern Work](https://www.vshn.ch/blog/vshn-timer-154-modern-times-modern-work/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
