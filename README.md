@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [How to Use Demo Magic](https://akos.ma/blog/how-to-use-demo-magic/)
 - [Avoid These Things Because Insecure](https://akos.ma/blog/avoid-these-things-because-insecure/)
 - [Containers and DLL Hell](https://akos.ma/blog/containers-and-dll-hell/)
 - [Mastodon](https://akos.ma/blog/mastodon/)
-- [Editorial Kapelusz](https://akos.ma/blog/editorial-kapelusz/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
