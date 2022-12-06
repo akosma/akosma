@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #50: Humor](https://deprogrammaticaipsum.com/issue-50-humor/)
-- [A Eulogy For Schadenfreude](https://deprogrammaticaipsum.com/a-eulogy-for-schadenfreude/)
-- [Gary Bernhardt](https://deprogrammaticaipsum.com/gary-bernhardt/)
-- [Geoffrey James](https://deprogrammaticaipsum.com/geoffrey-james/)
+- [Issue #51: Freelancing](https://deprogrammaticaipsum.com/issue-51-freelancing/)
+- [“When You Can’t Create, You Can Work”](https://deprogrammaticaipsum.com/when-you-cant-create-you-can-work/)
+- [Mike Monteiro](https://deprogrammaticaipsum.com/mike-monteiro/)
+- [Barry Boehm](https://deprogrammaticaipsum.com/barry-boehm/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
