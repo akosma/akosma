@@ -18,10 +18,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #51: Freelancing](https://deprogrammaticaipsum.com/issue-51-freelancing/)
-- [“When You Can’t Create, You Can Work”](https://deprogrammaticaipsum.com/when-you-cant-create-you-can-work/)
-- [Mike Monteiro](https://deprogrammaticaipsum.com/mike-monteiro/)
-- [Barry Boehm](https://deprogrammaticaipsum.com/barry-boehm/)
+- [Issue #52: The World Wide Web](https://deprogrammaticaipsum.com/issue-52-the-world-wide-web/)
+- [From Hypertext To SPAs To Hypertext](https://deprogrammaticaipsum.com/from-hypertext-to-spas-to-hypertext/)
+- [Steve Jobs](https://deprogrammaticaipsum.com/steve-jobs/)
+- [Andy Clarke](https://deprogrammaticaipsum.com/andy-clarke/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
