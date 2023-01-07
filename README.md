@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Best Books of 2022](https://akos.ma/blog/best-books-of-2022/)
 - [Shows and Movies of 2022](https://akos.ma/blog/shows-and-movies-of-2022/)
 - [Best Books of 2021](https://akos.ma/blog/best-books-of-2021/)
 - [Stockholm Syndrome in Software](https://akos.ma/blog/stockholm-syndrome-in-software/)
-- [What Objective-C 3.0 Could Have Been](https://akos.ma/blog/what-objective-c-3.0-could-have-been/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
