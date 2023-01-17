@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #167: When The Product Goes Down](https://www.vshn.ch/blog/vshn-timer-167-when-the-product-goes-down/)
 - [VSHN.timer #166: Happy New Containers in 2023!](https://www.vshn.ch/blog/vshn-timer-166-happy-new-containers-in-2023/)
 - [VSHN.timer #165: Is DevOps Still Relevant?](https://www.vshn.ch/blog/vshn-timer-165-is-devops-still-relevant/)
 - [VSHN.timer #164: Welcome to the Jungle](https://www.vshn.ch/blog/vshn-timer-164-welcome-to-the-jungle/)
-- [VSHN.timer #163: Solving Problems With Kubernetes](https://www.vshn.ch/blog/vshn-timer-163-solving-problems-with-kubernetes/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
