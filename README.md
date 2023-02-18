@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Those Function Keys](https://akos.ma/blog/those-function-keys/)
 - [Server Side Rendering FTW](https://akos.ma/blog/server-side-rendering-ftw/)
 - [Javascript Animations](https://akos.ma/blog/javascript-animations/)
 - [FOSS in Developing Countries](https://akos.ma/blog/foss-in-developing-countries/)
-- [GNOME Extensions](https://akos.ma/blog/gnome-extensions/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
