@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #174: The Do-It-Yourself Strategy](https://www.vshn.ch/blog/vshn-timer-174-the-do-it-yourself-strategy/)
 - [VSHN.timer #173: GitAIOps](https://www.vshn.ch/blog/vshn-timer-173-gitaiops/)
 - [VSHN.timer #172: A Degree in Kubernetology](https://www.vshn.ch/blog/vshn-timer-172-a-degree-in-kubernetology/)
 - [VSHN.timer #171: Unstoppable OpenShift 4.12](https://www.vshn.ch/blog/vshn-timer-171-unstoppable-openshift-4-12/)
-- [VSHN.timer #170: News From FOSDEM 2023](https://www.vshn.ch/blog/vshn-timer-170-news-from-fosdem-2023/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
