@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [20 Years of Harman Kardon SoundSticks](https://akos.ma/blog/20-years-of-harman-kardon-soundsticks/)
 - [Sizing Exercises Correctly](https://akos.ma/blog/sizing-exercises-correctly/)
 - [Best Review](https://akos.ma/blog/best-review/)
 - [Yup, Still Learning a New Programming Language Every Year](https://akos.ma/blog/yup-still-learning-a-new-programming-language-every-year/)
-- [Those Function Keys](https://akos.ma/blog/those-function-keys/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
