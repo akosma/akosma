@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #176: The Age of Artificial Intelligence](https://www.vshn.ch/blog/vshn-timer-176-the-age-of-artificial-intelligence/)
 - [VSHN.timer #175: Brain Damage](https://www.vshn.ch/blog/vshn-timer-175-brain-damage/)
 - [VSHN.timer #174: The Do-It-Yourself Strategy](https://www.vshn.ch/blog/vshn-timer-174-the-do-it-yourself-strategy/)
 - [VSHN.timer #173: GitAIOps](https://www.vshn.ch/blog/vshn-timer-173-gitaiops/)
-- [VSHN.timer #172: A Degree in Kubernetology](https://www.vshn.ch/blog/vshn-timer-172-a-degree-in-kubernetology/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
