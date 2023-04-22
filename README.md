@@ -9,10 +9,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Hugo in DevOps Mode](https://akos.ma/blog/hugo-in-devops-mode/)
 - [Matomo](https://akos.ma/blog/matomo/)
 - [Redmine](https://akos.ma/blog/redmine/)
 - [Bootstrap](https://akos.ma/blog/bootstrap/)
-- [EditPlus](https://akos.ma/blog/editplus/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
