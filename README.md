@@ -27,10 +27,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #180: What Happened at KubeCon 2023?](https://www.vshn.ch/blog/vshn-timer-180-what-happened-at-kubecon-2023/)
 - [VSHN.timer #179: Attending KubeCon + CloudNativeCon Europe 2023](https://www.vshn.ch/blog/vshn-timer-179-attending-kubecon-cloudnativecon-europe-2023/)
 - [VSHN.timer #178: Happy Birthday, Everyone!](https://www.vshn.ch/blog/vshn-timer-178-happy-birthday-everyone/)
 - [VSHN.timer #177: Coffee Machine Currently Unavailable](https://www.vshn.ch/blog/vshn-timer-177-coffee-machine-currently-unavailable/)
-- [VSHN.timer #176: The Age of Artificial Intelligence](https://www.vshn.ch/blog/vshn-timer-176-the-age-of-artificial-intelligence/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
