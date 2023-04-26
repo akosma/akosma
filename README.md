@@ -4,6 +4,13 @@ Adrian Kosmaczewski is a writer, a software developer and a trainer. He is a pub
 
 When not coding or teaching, Adrian likes to spend time with his wife Claudia, his cat Max and his Olivetti Lettera 22 typewriter.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akosma&hide=stars&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosma&layout=compact&langs_count=10&hide_progress=true" />
+</a>
+
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/akosma) [<img align="left" alt="Twitter" src="https://img.shields.io/mastodon/follow/109270323923963213?domain=https%3A%2F%2Fmastodon.online&logo=mastodon&style=for-the-badge">](https://mastodon.online/@akosma) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/akosma) [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@akosma) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://akos.ma/index.xml)
 
 ## Weekly Blog: akos.ma
