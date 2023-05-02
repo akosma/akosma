@@ -22,10 +22,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #55: Mathematics](https://deprogrammaticaipsum.com/issue-55-mathematics/)
-- [In Praise Of Mathematics](https://deprogrammaticaipsum.com/in-praise-of-mathematics/)
-- [Nemean](https://deprogrammaticaipsum.com/nemean/)
-- [Guillermo Martínez &amp; Gustavo Piñeiro](https://deprogrammaticaipsum.com/guillermo-martinez-gustavo-pineiro/)
+- [Issue #56: Operating Systems](https://deprogrammaticaipsum.com/issue-56-operating-systems/)
+- [Aftermath Of The Kernel Wars](https://deprogrammaticaipsum.com/aftermath-of-the-kernel-wars/)
+- [Ken Ross &amp; Paul Laughton](https://deprogrammaticaipsum.com/ken-ross-paul-laughton/)
+- [Abraham Silberschatz, Peter Baer Galvin, &amp; Greg Gagne](https://deprogrammaticaipsum.com/abraham-silberschatz-peter-baer-galvin-greg-gagne/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
