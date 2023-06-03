@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Fedora 38](https://akos.ma/blog/fedora-38/)
 - [Macromedia Flash](https://akos.ma/blog/macromedia-flash/)
 - [Back to Monoliths](https://akos.ma/blog/back-to-monoliths/)
 - [GaMMA](https://akos.ma/blog/gamma/)
-- [The Oldest Web Pages I&#39;ve Made Still Online](https://akos.ma/blog/the-oldest-web-pages-ive-made-still-online/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
