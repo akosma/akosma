@@ -31,10 +31,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #185: The Time of OpenShift 4.13](https://www.vshn.ch/blog/vshn-timer-185-the-time-of-openshift-4-13/)
 - [VSHN.timer #184: For Linux Distro Hoppers](https://www.vshn.ch/blog/vshn-timer-184-for-linux-distro-hoppers/)
 - [VSHN.timer #183: Attending Red Hat Summit 2023](https://www.vshn.ch/blog/vshn-timer-183-attending-red-hat-summit-2023/)
 - [VSHN.timer #182: Security Through AI](https://www.vshn.ch/blog/vshn-timer-182-security-through-ai/)
-- [VSHN.timer #181: The Road from FinOps to GreenOps](https://www.vshn.ch/blog/vshn-timer-181-the-road-from-finops-to-greenops/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
