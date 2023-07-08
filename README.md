@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Java Applets in 2023](https://akos.ma/blog/java-applets-in-2023/)
 - [Mobile Application Testing Book](https://akos.ma/blog/mobile-application-testing-book/)
 - [Restic](https://akos.ma/blog/restic/)
 - [10 Years of Flat Design](https://akos.ma/blog/10-years-of-flat-design/)
-- [Memories of WWDC 2008](https://akos.ma/blog/memories-of-wwdc-2008/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
