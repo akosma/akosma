@@ -1,8 +1,8 @@
 name: VSHN.timer workflow
 on:
   schedule:
-    # https://crontab.guru/#59_1_*_*_*/1
-    - cron: '59 1 * * */1'
+    # https://crontab.guru/#30_17_*_*_1
+    - cron: '30 17 * * 1'
   workflow_dispatch:
 
 jobs:
