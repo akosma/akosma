@@ -22,10 +22,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #58: Community](https://deprogrammaticaipsum.com/issue-58-community/)
-- [The Tragedy Of The Common Enemy](https://deprogrammaticaipsum.com/the-tragedy-of-the-common-enemy/)
-- [Guy Kawasaki](https://deprogrammaticaipsum.com/guy-kawasaki/)
-- [Nadia Asparouhova](https://deprogrammaticaipsum.com/nadia-asparouhova/)
+- [Issue #59: BASIC](https://deprogrammaticaipsum.com/issue-59-basic/)
+- [Programming The Liberal Arts](https://deprogrammaticaipsum.com/programming-the-liberal-arts/)
+- [Dartmouth College](https://deprogrammaticaipsum.com/dartmouth-college/)
+- [Mark Jones Lorenzo](https://deprogrammaticaipsum.com/mark-jones-lorenzo/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
