@@ -31,10 +31,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #195: AWSome News](https://www.vshn.ch/blog/vshn-timer-195-awsome-news/)
 - [VSHN.timer #194: In Memoriam Bram Moolenaar](https://www.vshn.ch/blog/vshn-timer-194-in-memoriam-bram-moolenaar/)
 - [VSHN.timer #193: Kubernetes and OpenShift Operators](https://www.vshn.ch/blog/vshn-timer-193-kubernetes-and-openshift-operators/)
 - [VSHN.timer #192: Noteworthy New Products](https://www.vshn.ch/blog/vshn-timer-192-noteworthy-new-products/)
-- [VSHN.timer #191: The Tribulations of Free and Open Source Software](https://www.vshn.ch/blog/vshn-timer-191-the-tribulations-of-free-and-open-source-software/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
