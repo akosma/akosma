@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Kosmaczewski&#39;s Law](https://akos.ma/blog/kosmaczewskis-law/)
 - [Conway in Minimal BASIC](https://akos.ma/blog/conway-in-minimal-basic/)
 - [Recording Getting Started Guides on Linux](https://akos.ma/blog/recording-getting-started-guides-on-linux/)
 - [First Half of 2023 full of AI and ChatGPT](https://akos.ma/blog/first-half-of-2023-full-of-ai-and-chatgpt/)
-- [Conway with the Zig Programming Language](https://akos.ma/blog/conway-with-the-zig-programming-language/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
