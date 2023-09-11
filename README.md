@@ -31,10 +31,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
-- [VSHN.timer #198: A Plethora of Solutions](https://www.vshn.ch/blog/vshn-timer-198-a-plethora-of-solutions/)
-- [VSHN.timer #197: Very Large-Scale Deployments](https://www.vshn.ch/blog/vshn-timer-197-very-large-scale-deployments/)
-- [VSHN.timer #196: Git, Gitea, GitLab, and GitHub](https://www.vshn.ch/blog/vshn-timer-196-git-gitea-gitlab-and-github/)
-- [VSHN.timer #195: AWSome News](https://www.vshn.ch/blog/vshn-timer-195-awsome-news/)
+- [VSHN.timer #199: PostgreSQL and Kubernetes, a Match Made in Heaven](https://vshn.ch/blog/vshn-timer-199-postgresql-and-kubernetes-a-match-made-in-heaven/)
+- [VSHN.timer #198: A Plethora of Solutions](https://vshn.ch/blog/vshn-timer-198-a-plethora-of-solutions/)
+- [VSHN.timer #197: Very Large-Scale Deployments](https://vshn.ch/blog/vshn-timer-197-very-large-scale-deployments/)
+- [VSHN.timer #196: Git, Gitea, GitLab, and GitHub](https://vshn.ch/blog/vshn-timer-196-git-gitea-gitlab-and-github/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
