@@ -25,7 +25,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Issue #60: Perspectives](https://deprogrammaticaipsum.com/issue-60-perspectives/)
 - [By All Means](https://deprogrammaticaipsum.com/by-all-means/)
 - [Bertrand Russell](https://deprogrammaticaipsum.com/bertrand-russell/)
-- [Jens Müller and Julius Wiedemann](https://deprogrammaticaipsum.com/jens-muller-and-julius-wiedemann/)
+- [Jens Müller &amp; Julius Wiedemann](https://deprogrammaticaipsum.com/jens-muller-and-julius-wiedemann/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
