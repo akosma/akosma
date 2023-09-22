@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [El Imperio Contraataca](https://akos.ma/blog/el-imperio-contraataca/)
 - [Opening Microsoft Access Databases on Linux](https://akos.ma/blog/opening-microsoft-access-databases-on-linux/)
 - [Five Years of De Programmatica Ipsum](https://akos.ma/blog/five-years-of-de-programmatica-ipsum/)
 - [1996](https://akos.ma/blog/1996/)
-- [Conway in Rexx, Cobol, and Fortran](https://akos.ma/blog/conway-in-rexx-cobol-and-fortran/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
