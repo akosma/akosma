@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Openshift Local CRC From Another Machine](https://akos.ma/blog/openshift-local-crc-from-another-machine/)
 - [Learning Openshift on Linkedin Learning](https://akos.ma/blog/learning-openshift-on-linkedin-learning/)
 - [On Documentation](https://akos.ma/blog/on-documentation/)
 - [El Imperio Contraataca](https://akos.ma/blog/el-imperio-contraataca/)
-- [Opening Microsoft Access Databases on Linux](https://akos.ma/blog/opening-microsoft-access-databases-on-linux/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
