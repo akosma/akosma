@@ -31,10 +31,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #203: Uno, DDoS, Tres; Social Attacks Are The Best](https://vshn.ch/blog/vshn-timer-203-uno-ddos-tres-social-attacks-are-the-best/)
 - [VSHN.timer #202: A Petabyte A Day Keeps The Engineers Awake](https://vshn.ch/blog/vshn-timer-202-a-petabyte-a-day-keeps-the-engineers-awake/)
 - [VSHN.timer #201: Μονόλιθοι στο Κυβερνήτης](https://vshn.ch/blog/vshn-timer-201-monoliths-on-kubernetes/)
 - [VSHN.timer #200: Short URLs Are A DevOps Engineer’s Best Friend](https://vshn.ch/blog/vshn-timer-200-short-urls-are-a-devops-engineers-best-friend/)
-- [VSHN.timer #199: PostgreSQL and Kubernetes, a Match Made in Heaven](https://vshn.ch/blog/vshn-timer-199-postgresql-and-kubernetes-a-match-made-in-heaven/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
