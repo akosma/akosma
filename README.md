@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The Playlist of 2022](https://akos.ma/blog/the-playlist-of-2022/)
 - [The Wordpress Market is a Red Ocean](https://akos.ma/blog/the-wordpress-market-is-a-red-ocean/)
 - [Notes About &quot;Who Says Elephants Can&#39;t Dance?&quot; by Lou Gerstner](https://akos.ma/blog/notes-about-who-says-elephants-cant-dance-by-lou-gerstner/)
 - [Revisiting Ruby on Rails](https://akos.ma/blog/revisiting-ruby-on-rails/)
-- [OpenShift Local CRC From Another Machine](https://akos.ma/blog/openshift-local-crc-from-another-machine/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
