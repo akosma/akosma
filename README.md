@@ -31,10 +31,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Newsletter: VSHN.timer
 
 <!-- VSHNTIMER:START -->
+- [VSHN.timer #206: The Essence of Fedora and Debian](https://vshn.ch/blog/vshn-timer-206-the-essence-of-fedora-and-debian/)
 - [VSHN.timer #205: Infrastructure as LLM](https://vshn.ch/blog/vshn-timer-205-infrastructure-as-llm/)
 - [VSHN.timer #204: The Raspberry 5 is Here!](https://vshn.ch/blog/vshn-timer-204-the-raspberry-5-is-here/)
 - [VSHN.timer #203: Uno, DDoS, Tres; Social Attacks Are The Best](https://vshn.ch/blog/vshn-timer-203-uno-ddos-tres-social-attacks-are-the-best/)
-- [VSHN.timer #202: A Petabyte A Day Keeps The Engineers Awake](https://vshn.ch/blog/vshn-timer-202-a-petabyte-a-day-keeps-the-engineers-awake/)
 <!-- VSHNTIMER:END -->
 
 ## Interests
