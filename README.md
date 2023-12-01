@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [5 Years of Full-Time Linux](https://akos.ma/blog/5-years-of-full-time-linux/)
 - [Expecting People to Work for Free](https://akos.ma/blog/expecting-people-to-work-for-free/)
 - [The Core Idea of this Blog is Migrations](https://akos.ma/blog/the-core-idea-of-this-blog-is-migrations/)
 - [The Playlist of 2022](https://akos.ma/blog/the-playlist-of-2022/)
-- [The Wordpress Market is a Red Ocean](https://akos.ma/blog/the-wordpress-market-is-a-red-ocean/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
