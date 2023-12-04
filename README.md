@@ -22,10 +22,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #62: IBM](https://deprogrammaticaipsum.com/issue-62-ibm/)
-- [Think](https://deprogrammaticaipsum.com/think/)
-- [Jim Henson](https://deprogrammaticaipsum.com/jim-henson/)
-- [James Cortada, Emerson Pugh, &amp; Louis Gerstner Jr.](https://deprogrammaticaipsum.com/james-cortada-emerson-pugh-louis-gerstner-jr/)
+- [Issue #63: Space](https://deprogrammaticaipsum.com/issue-63-space/)
+- [Rocket Science](https://deprogrammaticaipsum.com/rocket-science/)
+- [Margaret Hamilton](https://deprogrammaticaipsum.com/margaret-hamilton/)
+- [Carl Sagan](https://deprogrammaticaipsum.com/carl-sagan/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
