@@ -22,10 +22,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #63: Space](https://deprogrammaticaipsum.com/issue-63-space/)
-- [Rocket Science](https://deprogrammaticaipsum.com/rocket-science/)
-- [Margaret Hamilton](https://deprogrammaticaipsum.com/margaret-hamilton/)
-- [Carl Sagan](https://deprogrammaticaipsum.com/carl-sagan/)
+- [Issue #64: Retrocomputing](https://deprogrammaticaipsum.com/issue-64-retrocomputing/)
+- [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
+- [Stewart Cheifet](https://deprogrammaticaipsum.com/stewart-cheifet/)
+- [Alex Wiltshire &amp; John Short](https://deprogrammaticaipsum.com/alex-wiltshire-john-short/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
