@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The Time of Augmented Imagination](https://akos.ma/blog/the-time-of-augmented-imagination/)
 - [The Playlist of 2023](https://akos.ma/blog/the-playlist-of-2023/)
 - [Shows and Movies of 2023](https://akos.ma/blog/shows-and-movies-of-2023/)
 - [Best Books of 2023](https://akos.ma/blog/best-books-of-2023/)
-- [Remembering SETI@Home](https://akos.ma/blog/remembering-setihome/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
