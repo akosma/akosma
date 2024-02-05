@@ -22,10 +22,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Monthly Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #64: Retrocomputing](https://deprogrammaticaipsum.com/issue-64-retrocomputing/)
-- [Return to Innocence](https://deprogrammaticaipsum.com/return-to-innocence/)
-- [Stewart Cheifet](https://deprogrammaticaipsum.com/stewart-cheifet/)
-- [Alex Wiltshire &amp; John Short](https://deprogrammaticaipsum.com/alex-wiltshire-john-short/)
+- [Issue #65: Pascal](https://deprogrammaticaipsum.com/issue-65-pascal/)
+- [“Lazarus, Come Forth!”](https://deprogrammaticaipsum.com/lazarus-come-forth/)
+- [Niklaus Wirth](https://deprogrammaticaipsum.com/niklaus-wirth/)
+- [Edward Nash Yourdon](https://deprogrammaticaipsum.com/edward-nash-yourdon/)
 <!-- DEPROGIPSUM:END -->
 
 ## Weekly Newsletter: VSHN.timer
