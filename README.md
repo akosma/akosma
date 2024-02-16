@@ -13,10 +13,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Weekly Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The Chewing Gum Conspiracy: A Psychedelic Odyssey Beyond the Printed Page](https://akos.ma/blog/the-chewing-gum-conspiracy-a-psychedelic-odyssey-beyond-the-printed-page/)
 - [Fading Into Irrelevance](https://akos.ma/blog/fading-into-irrelevance/)
 - [Do You Feel It?](https://akos.ma/blog/do-you-feel-it/)
 - [The Time of Augmented Imagination](https://akos.ma/blog/the-time-of-augmented-imagination/)
-- [The Playlist of 2023](https://akos.ma/blog/the-playlist-of-2023/)
 <!-- AKOSMA:END -->
 
 ## Monthly Magazine: De Programmatica Ipsum
