@@ -10,7 +10,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/akosma) [<img align="left" alt="Twitter" src="https://img.shields.io/mastodon/follow/109270323923963213?domain=https%3A%2F%2Fmastodon.online&logo=mastodon&style=for-the-badge">](https://mastodon.online/@akosma) [<img align="left" alt="GitLab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://gitlab.com/akosma) [<img alt="YouTube" align="left" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/@akosma) [<img alt="Blog" src="https://img.shields.io/badge/rss-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white">](https://akos.ma/index.xml)
 
-## Weekly Blog: akos.ma
+## Blog: akos.ma
 
 <!-- AKOSMA:START -->
 - [The Chewing Gum Conspiracy: A Psychedelic Odyssey Beyond the Printed Page](https://akos.ma/blog/the-chewing-gum-conspiracy-a-psychedelic-odyssey-beyond-the-printed-page/)
@@ -23,7 +23,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Remembering SETI@Home](https://akos.ma/blog/remembering-setihome/)
 <!-- AKOSMA:END -->
 
-## Monthly Magazine: De Programmatica Ipsum
+## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
 - [Issue #65: Pascal](https://deprogrammaticaipsum.com/issue-65-pascal/)
@@ -31,15 +31,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Niklaus Wirth](https://deprogrammaticaipsum.com/niklaus-wirth/)
 - [Edward Nash Yourdon](https://deprogrammaticaipsum.com/edward-nash-yourdon/)
 <!-- DEPROGIPSUM:END -->
-
-## Weekly Newsletter: VSHN.timer
-
-<!-- VSHNTIMER:START -->
-- [VSHN.timer #216: New Products on the Radar](https://vshn.ch/blog/vshn-timer-216-new-products-on-the-radar/)
-- [VSHN.timer #215: The Rise of OpenTofu and Crossplane](https://vshn.ch/blog/vshn-timer-215-the-rise-of-opentofu-and-crossplane/)
-- [VSHN.timer #214: Switch to Firefox](https://vshn.ch/blog/vshn-timer-214-switch-to-firefox/)
-- [VSHN.timer #213: The Latest and Greatest DevOps Tools](https://vshn.ch/blog/vshn-timer-213-the-latest-and-greatest-devops-tools/)
-<!-- VSHNTIMER:END -->
 
 ## Interests
 
