@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Going to Buenos Aires? Here to Help You](https://akos.ma/blog/going-to-buenos-aires-here-to-help-you/)
 - [How to Speak, by Patrick Winston](https://akos.ma/blog/how-to-speak-by-patrick-winston/)
 - [The Chewing Gum Conspiracy: A Psychedelic Odyssey Beyond the Printed Page](https://akos.ma/blog/the-chewing-gum-conspiracy-a-psychedelic-odyssey-beyond-the-printed-page/)
 - [Fading Into Irrelevance](https://akos.ma/blog/fading-into-irrelevance/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The Time of Augmented Imagination](https://akos.ma/blog/the-time-of-augmented-imagination/)
 - [The Playlist of 2023](https://akos.ma/blog/the-playlist-of-2023/)
 - [Shows and Movies of 2023](https://akos.ma/blog/shows-and-movies-of-2023/)
-- [Best Books of 2023](https://akos.ma/blog/best-books-of-2023/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
