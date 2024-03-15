@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Notes About &quot;The Coming Wave&quot; by Mustafa Suleyman](https://akos.ma/blog/notes-about-the-coming-wave-by-mustafa-suleyman/)
 - [Adopting WezTerm](https://akos.ma/blog/adopting-wezterm/)
 - [Going to Buenos Aires? Here to Help You](https://akos.ma/blog/going-to-buenos-aires-here-to-help-you/)
 - [How to Speak, by Patrick Winston](https://akos.ma/blog/how-to-speak-by-patrick-winston/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Fading Into Irrelevance](https://akos.ma/blog/fading-into-irrelevance/)
 - [Do You Feel It?](https://akos.ma/blog/do-you-feel-it/)
 - [The Time of Augmented Imagination](https://akos.ma/blog/the-time-of-augmented-imagination/)
-- [The Playlist of 2023](https://akos.ma/blog/the-playlist-of-2023/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
