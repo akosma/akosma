@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Scaramuzza Plays Liszt](https://akos.ma/blog/scaramuzza-plays-liszt/)
 - [Notes About &quot;The Coming Wave&quot; by Mustafa Suleyman](https://akos.ma/blog/notes-about-the-coming-wave-by-mustafa-suleyman/)
 - [Adopting WezTerm](https://akos.ma/blog/adopting-wezterm/)
 - [Going to Buenos Aires? Here to Help You](https://akos.ma/blog/going-to-buenos-aires-here-to-help-you/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The Chewing Gum Conspiracy: A Psychedelic Odyssey Beyond the Printed Page](https://akos.ma/blog/the-chewing-gum-conspiracy-a-psychedelic-odyssey-beyond-the-printed-page/)
 - [Fading Into Irrelevance](https://akos.ma/blog/fading-into-irrelevance/)
 - [Do You Feel It?](https://akos.ma/blog/do-you-feel-it/)
-- [The Time of Augmented Imagination](https://akos.ma/blog/the-time-of-augmented-imagination/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
