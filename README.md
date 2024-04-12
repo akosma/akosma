@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Notes About &quot;Welcome to AI&quot; by David Shrier](https://akos.ma/blog/notes-about-welcome-to-ai-by-david-shrier/)
 - [The Proton Suite](https://akos.ma/blog/the-proton-suite/)
 - [Notes About &quot;HBR Guide to AI Basics for Managers&quot;](https://akos.ma/blog/notes-about-hbr-guide-to-ai-basics-for-managers/)
 - [Scaramuzza Plays Liszt](https://akos.ma/blog/scaramuzza-plays-liszt/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Adopting WezTerm](https://akos.ma/blog/adopting-wezterm/)
 - [Going to Buenos Aires? Here to Help You](https://akos.ma/blog/going-to-buenos-aires-here-to-help-you/)
 - [How to Speak, by Patrick Winston](https://akos.ma/blog/how-to-speak-by-patrick-winston/)
-- [The Chewing Gum Conspiracy: A Psychedelic Odyssey Beyond the Printed Page](https://akos.ma/blog/the-chewing-gum-conspiracy-a-psychedelic-odyssey-beyond-the-printed-page/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
