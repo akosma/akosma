@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [When My Grandparents Arrived to Buenos Aires](https://akos.ma/blog/when-my-grandparents-arrived-to-buenos-aires/)
 - [LanguageTool](https://akos.ma/blog/languagetool/)
 - [Notepad Log Files on Visual Studio Code](https://akos.ma/blog/notepad-log-files-on-visual-studio-code/)
 - [Notes About &quot;Welcome to AI&quot; by David Shrier](https://akos.ma/blog/notes-about-welcome-to-ai-by-david-shrier/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Notes About &quot;HBR Guide to AI Basics for Managers&quot;](https://akos.ma/blog/notes-about-hbr-guide-to-ai-basics-for-managers/)
 - [Scaramuzza Plays Liszt](https://akos.ma/blog/scaramuzza-plays-liszt/)
 - [Notes About &quot;The Coming Wave&quot; by Mustafa Suleyman](https://akos.ma/blog/notes-about-the-coming-wave-by-mustafa-suleyman/)
-- [Adopting WezTerm](https://akos.ma/blog/adopting-wezterm/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
