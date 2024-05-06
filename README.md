@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue #67: Text Editors](https://deprogrammaticaipsum.com/issue-67-text-editors/)
-- [For Lack Of A Better Word](https://deprogrammaticaipsum.com/for-lack-of-a-better-word/)
-- [Fireship](https://deprogrammaticaipsum.com/fireship/)
-- [Charles Petzold](https://deprogrammaticaipsum.com/charles-petzold/)
+- [Issue #68: Design](https://deprogrammaticaipsum.com/issue-68-design/)
+- [The Impossible Dialogue, Revisited](https://deprogrammaticaipsum.com/the-impossible-dialogue-revisited/)
+- [Gary Hustwit](https://deprogrammaticaipsum.com/gary-hustwit/)
+- [David Kadavy](https://deprogrammaticaipsum.com/david-kadavy/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
