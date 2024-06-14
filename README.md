@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Split and Join Large Files](https://akos.ma/blog/split-and-join-large-files/)
 - [Aliens](https://akos.ma/blog/aliens/)
 - [Mathematical Curiosities](https://akos.ma/blog/mathematical-curiosities/)
 - [Running Programming Workshops](https://akos.ma/blog/running-programming-workshops/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Migrating De Programmatica Ipsum From WordPress to Hugo](https://akos.ma/blog/migrating-de-programmatica-ipsum-from-wordpress-to-hugo/)
 - [When My Grandparents Arrived to Buenos Aires](https://akos.ma/blog/when-my-grandparents-arrived-to-buenos-aires/)
 - [LanguageTool](https://akos.ma/blog/languagetool/)
-- [Notepad Log Files on Visual Studio Code](https://akos.ma/blog/notepad-log-files-on-visual-studio-code/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
