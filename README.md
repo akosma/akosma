@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 069: Architecture](https://deprogrammaticaipsum.com/issue-69-architecture/)
-- [Goodness Gracious, Great Balls Of Mud!](https://deprogrammaticaipsum.com/goodness-gracious-great-balls-of-mud/)
-- [Dylan Beattie](https://deprogrammaticaipsum.com/dylan-beattie/)
-- [Amy Brown &amp; Greg Wilson](https://deprogrammaticaipsum.com/amy-brown-greg-wilson/)
+- [Issue 070: DOS](https://deprogrammaticaipsum.com/issue-70-dos/)
+- [A Requiem For DOS](https://deprogrammaticaipsum.com/a-requiem-for-dos/)
+- [Gary Kildall](https://deprogrammaticaipsum.com/gary-kildall/)
+- [Dr. Dobb&#39;s Journal of Computer Calisthenics &amp; Orthodontia](https://deprogrammaticaipsum.com/dr-dobbs-journal-of-computer-calisthenics-and-orthodontia/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
