@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Jumping to Random Posts](https://akos.ma/blog/jumping-to-random-posts/)
 - [Notes About &quot;All-in on AI&quot; by Thomas Davenport and Nitin Mittal](https://akos.ma/blog/notes-about-all-in-on-ai-by-thomas-davenport-and-nitin-mittal/)
 - [Borges](https://akos.ma/blog/borges/)
 - [Split and Join Arbitrary Text](https://akos.ma/blog/split-and-join-arbitrary-text/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Aliens](https://akos.ma/blog/aliens/)
 - [Mathematical Curiosities](https://akos.ma/blog/mathematical-curiosities/)
 - [Running Programming Workshops](https://akos.ma/blog/running-programming-workshops/)
-- [How to Install FreeBSD 14 on a 6th Generation Thinkpad](https://akos.ma/blog/how-to-install-freebsd-14-on-a-6th-generation-thinkpad/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
