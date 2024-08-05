@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 070: DOS](https://deprogrammaticaipsum.com/issue-70-dos/)
-- [A Requiem For DOS](https://deprogrammaticaipsum.com/a-requiem-for-dos/)
-- [Gary Kildall](https://deprogrammaticaipsum.com/gary-kildall/)
-- [Dr. Dobb&#39;s Journal of Computer Calisthenics &amp; Orthodontia](https://deprogrammaticaipsum.com/dr-dobbs-journal-of-computer-calisthenics-and-orthodontia/)
+- [Issue 071: Go](https://deprogrammaticaipsum.com/issue-71-go/)
+- [The Age Of Concurrency](https://deprogrammaticaipsum.com/the-age-of-concurrency/)
+- [Rob Pike](https://deprogrammaticaipsum.com/rob-pike/)
+- [Sir Tony Hoare](https://deprogrammaticaipsum.com/sir-tony-hoare/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
