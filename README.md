@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [How to Add OpenSearch to your Website](https://akos.ma/blog/how-to-add-opensearch-to-your-website/)
 - [Cute Battery on your tmux](https://akos.ma/blog/cute-battery-on-your-tmux/)
 - [Weather on your tmux](https://akos.ma/blog/weather-on-your-tmux/)
 - [How to Create and Read QR Codes on the Terminal](https://akos.ma/blog/how-to-create-and-read-qr-codes-on-the-terminal/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Notes About &quot;All-in on AI&quot; by Thomas Davenport and Nitin Mittal](https://akos.ma/blog/notes-about-all-in-on-ai-by-thomas-davenport-and-nitin-mittal/)
 - [Borges](https://akos.ma/blog/borges/)
 - [Split and Join Arbitrary Text](https://akos.ma/blog/split-and-join-arbitrary-text/)
-- [Split and Join Large Files](https://akos.ma/blog/split-and-join-large-files/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
