@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 071: Go](https://deprogrammaticaipsum.com/issue-71-go/)
-- [The Age Of Concurrency](https://deprogrammaticaipsum.com/the-age-of-concurrency/)
-- [Rob Pike](https://deprogrammaticaipsum.com/rob-pike/)
-- [Sir Tony Hoare](https://deprogrammaticaipsum.com/sir-tony-hoare/)
+- [Issue 072: Assholes](https://deprogrammaticaipsum.com/issue-72-assholes/)
+- [The Insane Cult Of The Asshole](https://deprogrammaticaipsum.com/the-insane-cult-of-the-asshole/)
+- [Donnie Berkholz](https://deprogrammaticaipsum.com/donnie-berkholz/)
+- [Robert Sutton](https://deprogrammaticaipsum.com/robert-sutton/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
