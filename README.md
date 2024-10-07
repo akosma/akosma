@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 072: Assholes](https://deprogrammaticaipsum.com/issue-72-assholes/)
-- [The Insane Cult Of The Asshole](https://deprogrammaticaipsum.com/the-insane-cult-of-the-asshole/)
-- [Donnie Berkholz](https://deprogrammaticaipsum.com/donnie-berkholz/)
-- [Robert Sutton](https://deprogrammaticaipsum.com/robert-sutton/)
+- [Issue 073: Floating-Point Arithmetic](https://deprogrammaticaipsum.com/issue-73-floating-point-arithmetic/)
+- [The Smartest Concept In Computer Science](https://deprogrammaticaipsum.com/the-smartest-concept-in-computer-science/)
+- [Tom Scott](https://deprogrammaticaipsum.com/tom-scott/)
+- [Georges Ifrah](https://deprogrammaticaipsum.com/georges-ifrah/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
