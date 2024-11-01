@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [20 Years Blogging](https://akos.ma/blog/20-years-blogging/)
 - [32 Years of PC Configurations](https://akos.ma/blog/32-years-of-pc-configurations/)
 - [Notes From &quot;Thinking Fast and Slow&quot;](https://akos.ma/blog/notes-from-thinking-fast-and-slow/)
 - [Ancestors from Geneva and Beyond](https://akos.ma/blog/ancestors-from-geneva-and-beyond/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Farewell to Software Engineers](https://akos.ma/blog/farewell-to-software-engineers/)
 - [Use a Bidet](https://akos.ma/blog/use-a-bidet/)
 - [Songs With Names of People](https://akos.ma/blog/songs-with-names-of-people/)
-- [Against Open Spaces](https://akos.ma/blog/against-open-spaces/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
