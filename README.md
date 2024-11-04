@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 073: Floating-Point Arithmetic](https://deprogrammaticaipsum.com/issue-73-floating-point-arithmetic/)
-- [The Smartest Concept In Computer Science](https://deprogrammaticaipsum.com/the-smartest-concept-in-computer-science/)
-- [Tom Scott](https://deprogrammaticaipsum.com/tom-scott/)
-- [Georges Ifrah](https://deprogrammaticaipsum.com/georges-ifrah/)
+- [Issue 074: Lotus Development Corporation](https://deprogrammaticaipsum.com/issue-74-lotus/)
+- [There Was A Time That Was Beautiful](https://deprogrammaticaipsum.com/there-was-a-time-that-was-beautiful/)
+- [Mitch Kapor](https://deprogrammaticaipsum.com/mitch-kapor/)
+- [Freada Kapor Klein](https://deprogrammaticaipsum.com/freada-kapor-klein/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
