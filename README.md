@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Word 5.5 on DOSBox](https://akos.ma/blog/word-5.5-on-dosbox/)
 - [Word 5.1a and Excel 4 for Mac on Basilisk II](https://akos.ma/blog/word-5.1a-and-excel-4-for-mac-on-basilisk-ii/)
 - [Mini vMac on Fedora](https://akos.ma/blog/mini-vmac-on-fedora/)
 - [WFH in 1998](https://akos.ma/blog/wfh-in-1998/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [32 Years of PC Configurations](https://akos.ma/blog/32-years-of-pc-configurations/)
 - [Notes From &quot;Thinking Fast and Slow&quot;](https://akos.ma/blog/notes-from-thinking-fast-and-slow/)
 - [Ancestors from Geneva and Beyond](https://akos.ma/blog/ancestors-from-geneva-and-beyond/)
-- [How to Install OS/2 Warp 3 and 4 on VirtualBox](https://akos.ma/blog/how-to-install-os-2-warp-3-and-4-on-virtualbox/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
