@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 074: Lotus Development Corporation](https://deprogrammaticaipsum.com/issue-74-lotus/)
-- [There Was A Time That Was Beautiful](https://deprogrammaticaipsum.com/there-was-a-time-that-was-beautiful/)
-- [Mitch Kapor](https://deprogrammaticaipsum.com/mitch-kapor/)
-- [Freada Kapor Klein](https://deprogrammaticaipsum.com/freada-kapor-klein/)
+- [Issue 075: Teaching Programming](https://deprogrammaticaipsum.com/issue-75-teaching-programming/)
+- [Banning, Adopting, Reckoning](https://deprogrammaticaipsum.com/banning-adopting-reckoning/)
+- [Jerry Cain](https://deprogrammaticaipsum.com/jerry-cain/)
+- [A Review Of Research Around Programming Education From The 1960s To Today](https://deprogrammaticaipsum.com/a-review-of-research-around-programming-education-from-the-1960s-to-today/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
