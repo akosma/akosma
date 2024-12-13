@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Automatic Dark Mode via CSS](https://akos.ma/blog/automatic-dark-mode-via-css/)
 - [Containers for Non-Technical Readers With Podman Desktop](https://akos.ma/blog/containers-for-non-technical-readers-with-podman-desktop/)
 - [Word 5.5 on DOSBox](https://akos.ma/blog/word-5.5-on-dosbox/)
 - [Word 5.1a and Excel 4 for Mac on Basilisk II](https://akos.ma/blog/word-5.1a-and-excel-4-for-mac-on-basilisk-ii/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [WFH in 1998](https://akos.ma/blog/wfh-in-1998/)
 - [20 Years Blogging](https://akos.ma/blog/20-years-blogging/)
 - [32 Years of PC Configurations](https://akos.ma/blog/32-years-of-pc-configurations/)
-- [Notes From &quot;Thinking Fast and Slow&quot;](https://akos.ma/blog/notes-from-thinking-fast-and-slow/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
