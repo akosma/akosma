@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 075: Teaching Programming](https://deprogrammaticaipsum.com/issue-75-teaching-programming/)
-- [Banning, Adopting, Reckoning](https://deprogrammaticaipsum.com/banning-adopting-reckoning/)
-- [Jerry Cain](https://deprogrammaticaipsum.com/jerry-cain/)
-- [A Review Of Research Around Programming Education From The 1960s To Today](https://deprogrammaticaipsum.com/a-review-of-research-around-programming-education-from-the-1960s-to-today/)
+- [Issue 076: Chess](https://deprogrammaticaipsum.com/issue-76-chess/)
+- [A Panegyric For Human Chess Players](https://deprogrammaticaipsum.com/a-panegyric-for-human-chess-players/)
+- [Bartek Spitza](https://deprogrammaticaipsum.com/bartek-spitza/)
+- [David Levy &amp; Monty Newborn](https://deprogrammaticaipsum.com/david-levy-monty-newborn/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
