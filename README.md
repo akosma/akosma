@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [WordStar 7 for DOS](https://akos.ma/blog/wordstar-7-for-dos/)
 - [The Playlist of 2024](https://akos.ma/blog/the-playlist-of-2024/)
 - [Best Books of 2024](https://akos.ma/blog/best-books-of-2024/)
 - [Shows and Movies of 2024](https://akos.ma/blog/shows-and-movies-of-2024/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The New Clock and the Evolution of JavaScript](https://akos.ma/blog/the-new-clock-and-the-evolution-of-javascript/)
 - [Automatic Dark Mode via CSS](https://akos.ma/blog/automatic-dark-mode-via-css/)
 - [Containers for Non-Technical Readers With Podman Desktop](https://akos.ma/blog/containers-for-non-technical-readers-with-podman-desktop/)
-- [Word 5.5 on DOSBox](https://akos.ma/blog/word-5.5-on-dosbox/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
