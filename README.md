@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 076: Chess](https://deprogrammaticaipsum.com/issue-76-chess/)
-- [A Panegyric For Human Chess Players](https://deprogrammaticaipsum.com/a-panegyric-for-human-chess-players/)
-- [Bartek Spitza](https://deprogrammaticaipsum.com/bartek-spitza/)
-- [David Levy &amp; Monty Newborn](https://deprogrammaticaipsum.com/david-levy-monty-newborn/)
+- [Issue 077: C++](https://deprogrammaticaipsum.com/issue-77-cpp/)
+- [Twin Leaks: C++ Walk With Me](https://deprogrammaticaipsum.com/twin-leaks-cpp-walk-with-me/)
+- [Herb Sutter](https://deprogrammaticaipsum.com/herb-sutter/)
+- [Scott Meyers](https://deprogrammaticaipsum.com/scott-meyers/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
