@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Two Thirds of the Way In](https://akos.ma/blog/two-thirds-of-the-way-in/)
 - [20 Years with Claudia](https://akos.ma/blog/20-years-with-claudia/)
 - [Conway in C89](https://akos.ma/blog/conway-in-c89/)
 - [FreeDOS on QEMU](https://akos.ma/blog/freedos-on-qemu/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The Playlist of 2024](https://akos.ma/blog/the-playlist-of-2024/)
 - [Best Books of 2024](https://akos.ma/blog/best-books-of-2024/)
 - [Shows and Movies of 2024](https://akos.ma/blog/shows-and-movies-of-2024/)
-- [Share Your Terminal Live on the Web With ttyd](https://akos.ma/blog/share-your-terminal-live-on-the-web-with-ttyd/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
