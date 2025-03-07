@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Helix](https://akos.ma/blog/helix/)
 - [Retrocomputing Emulators on Your Browser](https://akos.ma/blog/retrocomputing-emulators-on-your-browser/)
 - [Two Thirds of the Way In](https://akos.ma/blog/two-thirds-of-the-way-in/)
 - [20 Years with Claudia](https://akos.ma/blog/20-years-with-claudia/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [FreeDOS on QEMU](https://akos.ma/blog/freedos-on-qemu/)
 - [WordStar 7 for DOS](https://akos.ma/blog/wordstar-7-for-dos/)
 - [The Playlist of 2024](https://akos.ma/blog/the-playlist-of-2024/)
-- [Best Books of 2024](https://akos.ma/blog/best-books-of-2024/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
