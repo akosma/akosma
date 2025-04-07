@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 078: Computer Magazines](https://deprogrammaticaipsum.com/issue-78-computer-magazines/)
-- [As We May Never Think Again](https://deprogrammaticaipsum.com/as-we-may-never-think-again/)
-- [Retro Gaming Museum](https://deprogrammaticaipsum.com/retro-gaming-museum/)
-- [Pastor Manul Laphroaig, T.G. S.B.](https://deprogrammaticaipsum.com/pastor-manul-laphroaig/)
+- [Issue 079: Trust](https://deprogrammaticaipsum.com/issue-79-trust/)
+- [Who Do You Trust?](https://deprogrammaticaipsum.com/who-do-you-trust/)
+- [Derek Muller &amp; Linus Sebastian](https://deprogrammaticaipsum.com/derek-muller-linus-sebastian/)
+- [David Rice](https://deprogrammaticaipsum.com/david-rice/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
