@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Conway in Bash](https://akos.ma/blog/conway-in-bash/)
 - [Pandoc Filters in Lua](https://akos.ma/blog/pandoc-filters-in-lua/)
 - [Screenkey for Linux](https://akos.ma/blog/screenkey-for-linux/)
 - [Sheffield](https://akos.ma/blog/sheffield/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [How to Get a Standing Ovation as a Conference Speaker](https://akos.ma/blog/how-to-get-a-standing-ovation-as-a-conference-speaker/)
 - [Helix](https://akos.ma/blog/helix/)
 - [Retrocomputing Emulators on Your Browser](https://akos.ma/blog/retrocomputing-emulators-on-your-browser/)
-- [Two Thirds of the Way In](https://akos.ma/blog/two-thirds-of-the-way-in/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
