@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Translating the Formula for Primes to C++ with AI](https://akos.ma/blog/translating-the-formula-for-primes-to-cpp-with-ai/)
 - [Conway in Bash](https://akos.ma/blog/conway-in-bash/)
 - [Pandoc Filters in Lua](https://akos.ma/blog/pandoc-filters-in-lua/)
 - [Screenkey for Linux](https://akos.ma/blog/screenkey-for-linux/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Lister 2.0.0](https://akos.ma/blog/lister-2.0.0/)
 - [How to Get a Standing Ovation as a Conference Speaker](https://akos.ma/blog/how-to-get-a-standing-ovation-as-a-conference-speaker/)
 - [Helix](https://akos.ma/blog/helix/)
-- [Retrocomputing Emulators on Your Browser](https://akos.ma/blog/retrocomputing-emulators-on-your-browser/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
