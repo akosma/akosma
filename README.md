@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 079: Trust](https://deprogrammaticaipsum.com/issue-79-trust/)
-- [Who Do You Trust?](https://deprogrammaticaipsum.com/who-do-you-trust/)
-- [Derek Muller &amp; Linus Sebastian](https://deprogrammaticaipsum.com/derek-muller-linus-sebastian/)
-- [David Rice](https://deprogrammaticaipsum.com/david-rice/)
+- [Issue 080: Windows](https://deprogrammaticaipsum.com/issue-80-windows/)
+- [Why Wait For The Best When I Could Have You?](https://deprogrammaticaipsum.com/why-wait-for-the-best-when-i-could-have-you/)
+- [Dave Plummer](https://deprogrammaticaipsum.com/dave-plummer/)
+- [Raymond Chen](https://deprogrammaticaipsum.com/raymond-chen/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
