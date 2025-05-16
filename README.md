@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [My Faithful Logitech C930e Webcam](https://akos.ma/blog/my-faithful-logitech-c930e-webcam/)
 - [El Eternauta](https://akos.ma/blog/el-eternauta/)
 - [Translating the Formula for Primes to Rust With AI](https://akos.ma/blog/translating-the-formula-for-primes-to-rust-with-ai/)
 - [Translating the Formula for Primes to C++ with AI](https://akos.ma/blog/translating-the-formula-for-primes-to-cpp-with-ai/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Pandoc Filters in Lua](https://akos.ma/blog/pandoc-filters-in-lua/)
 - [Screenkey for Linux](https://akos.ma/blog/screenkey-for-linux/)
 - [Sheffield](https://akos.ma/blog/sheffield/)
-- [Lister 2.0.0](https://akos.ma/blog/lister-2.0.0/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
