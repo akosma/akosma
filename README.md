@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 080: Windows](https://deprogrammaticaipsum.com/issue-80-windows/)
-- [Why Wait For The Best When I Could Have You?](https://deprogrammaticaipsum.com/why-wait-for-the-best-when-i-could-have-you/)
-- [Dave Plummer](https://deprogrammaticaipsum.com/dave-plummer/)
-- [Raymond Chen](https://deprogrammaticaipsum.com/raymond-chen/)
+- [Issue 081: Compilers](https://deprogrammaticaipsum.com/issue-81-compilers/)
+- [The Allure Of Vibe Coding](https://deprogrammaticaipsum.com/the-allure-of-vibe-coding/)
+- [Grace Hopper &amp; David Letterman](https://deprogrammaticaipsum.com/grace-hopper-david-letterman/)
+- [Vikram Chandra](https://deprogrammaticaipsum.com/vikram-chandra/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
