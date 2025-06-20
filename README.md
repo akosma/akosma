@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Exploring Hugo Tags](https://akos.ma/blog/exploring-hugo-tags/)
 - [A Famous Swiss Clock in JavaScript](https://akos.ma/blog/a-famous-swiss-clock-in-javascript/)
 - [Filling the Timesheet with HTAs](https://akos.ma/blog/filling-the-timesheet-with-htas/)
 - [Conway in Scala](https://akos.ma/blog/conway-in-scala/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [My Faithful Logitech C930e Webcam](https://akos.ma/blog/my-faithful-logitech-c930e-webcam/)
 - [El Eternauta](https://akos.ma/blog/el-eternauta/)
 - [Translating the Formula for Primes to Rust With AI](https://akos.ma/blog/translating-the-formula-for-primes-to-rust-with-ai/)
-- [Translating the Formula for Primes to C++ with AI](https://akos.ma/blog/translating-the-formula-for-primes-to-cpp-with-ai/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
