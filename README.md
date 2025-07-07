@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 081: Compilers](https://deprogrammaticaipsum.com/issue-81-compilers/)
-- [The Allure Of Vibe Coding](https://deprogrammaticaipsum.com/the-allure-of-vibe-coding/)
-- [Grace Hopper &amp; David Letterman](https://deprogrammaticaipsum.com/grace-hopper-david-letterman/)
-- [Vikram Chandra](https://deprogrammaticaipsum.com/vikram-chandra/)
+- [Issue 082: Futurism](https://deprogrammaticaipsum.com/issue-82-futurism/)
+- [The Best Way To Predict The Future](https://deprogrammaticaipsum.com/the-best-way-to-predict-the-future/)
+- [Doug Engelbart](https://deprogrammaticaipsum.com/doug-engelbart/)
+- [J. C. R. Licklider &amp; M. Mitchell Waldrop](https://deprogrammaticaipsum.com/j-c-r-licklider-m-mitchell-waldrop/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
