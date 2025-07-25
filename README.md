@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Plugins for tmux](https://akos.ma/blog/plugins-for-tmux/)
 - [Car Accident, 1976](https://akos.ma/blog/car-accident-1976/)
 - [Memories of 1978, Paranoia and Pain](https://akos.ma/blog/memories-of-1978-paranoia-and-pain/)
 - [Lumière](https://akos.ma/blog/lumiere/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Exploring Hugo Tags](https://akos.ma/blog/exploring-hugo-tags/)
 - [A Famous Swiss Clock in JavaScript](https://akos.ma/blog/a-famous-swiss-clock-in-javascript/)
 - [Filling the Timesheet with HTAs](https://akos.ma/blog/filling-the-timesheet-with-htas/)
-- [Conway in Scala](https://akos.ma/blog/conway-in-scala/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
