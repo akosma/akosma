@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 082: Futurism](https://deprogrammaticaipsum.com/issue-82-futurism/)
-- [The Best Way To Predict The Future](https://deprogrammaticaipsum.com/the-best-way-to-predict-the-future/)
-- [Doug Engelbart](https://deprogrammaticaipsum.com/doug-engelbart/)
-- [J. C. R. Licklider &amp; M. Mitchell Waldrop](https://deprogrammaticaipsum.com/j-c-r-licklider-m-mitchell-waldrop/)
+- [Issue 083: PHP](https://deprogrammaticaipsum.com/issue-83-php/)
+- [The Toyota Corolla Of Programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
+- [Kévin Dunglas](https://deprogrammaticaipsum.com/k%C3%A9vin-dunglas/)
+- [Josh Lockhart &amp; Phil Sturgeon](https://deprogrammaticaipsum.com/josh-lockhart-phil-sturgeon/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
