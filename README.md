@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Calibre](https://akos.ma/blog/calibre/)
 - [Elizabethtown](https://akos.ma/blog/elizabethtown/)
 - [My Grandmother Herta Schlerff](https://akos.ma/blog/my-grandmother-herta-schlerff/)
 - [Plugins for tmux](https://akos.ma/blog/plugins-for-tmux/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Memories of 1978, Paranoia and Pain](https://akos.ma/blog/memories-of-1978-paranoia-and-pain/)
 - [Lumière](https://akos.ma/blog/lumiere/)
 - [Conway in Borland Delphi](https://akos.ma/blog/conway-in-borland-delphi/)
-- [Exploring Hugo Tags](https://akos.ma/blog/exploring-hugo-tags/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
