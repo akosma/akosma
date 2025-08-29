@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Conway in NASM](https://akos.ma/blog/conway-in-nasm/)
 - [Lucky Man](https://akos.ma/blog/lucky-man/)
 - [Calibre](https://akos.ma/blog/calibre/)
 - [Elizabethtown](https://akos.ma/blog/elizabethtown/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Plugins for tmux](https://akos.ma/blog/plugins-for-tmux/)
 - [Car Accident, 1976](https://akos.ma/blog/car-accident-1976/)
 - [Memories of 1978, Paranoia and Pain](https://akos.ma/blog/memories-of-1978-paranoia-and-pain/)
-- [Lumière](https://akos.ma/blog/lumiere/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
