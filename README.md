@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 083: PHP](https://deprogrammaticaipsum.com/issue-83-php/)
-- [The Toyota Corolla Of Programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
-- [Kévin Dunglas](https://deprogrammaticaipsum.com/k%C3%A9vin-dunglas/)
-- [Josh Lockhart &amp; Phil Sturgeon](https://deprogrammaticaipsum.com/josh-lockhart-phil-sturgeon/)
+- [Issue 084: Spreadsheets](https://deprogrammaticaipsum.com/issue-84-spreadsheets/)
+- [The OG Low-Code Platform](https://deprogrammaticaipsum.com/the-og-low-code-platform/)
+- [Felienne Hermans](https://deprogrammaticaipsum.com/felienne-hermans/)
+- [Charles Misner &amp; Patrick Cooney](https://deprogrammaticaipsum.com/charles-misner-patrick-cooney/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
