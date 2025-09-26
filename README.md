@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Gym](https://akos.ma/blog/gym/)
 - [Zotero](https://akos.ma/blog/zotero/)
 - [Objective-C and Cocoa in 2025](https://akos.ma/blog/objective-c-and-cocoa-in-2025/)
 - [Open Source Forbidden](https://akos.ma/blog/open-source-forbidden/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Lucky Man](https://akos.ma/blog/lucky-man/)
 - [Calibre](https://akos.ma/blog/calibre/)
 - [Elizabethtown](https://akos.ma/blog/elizabethtown/)
-- [My Grandmother Herta Schlerff](https://akos.ma/blog/my-grandmother-herta-schlerff/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
