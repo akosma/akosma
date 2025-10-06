@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 084: Spreadsheets](https://deprogrammaticaipsum.com/issue-84-spreadsheets/)
-- [The OG Low-Code Platform](https://deprogrammaticaipsum.com/the-og-low-code-platform/)
-- [Felienne Hermans](https://deprogrammaticaipsum.com/felienne-hermans/)
-- [Charles Misner &amp; Patrick Cooney](https://deprogrammaticaipsum.com/charles-misner-patrick-cooney/)
+- [Issue 085: Memory Management](https://deprogrammaticaipsum.com/issue-085-memory-management/)
+- [Souvenir](https://deprogrammaticaipsum.com/souvenir/)
+- [Ryan Baker](https://deprogrammaticaipsum.com/ryan-baker/)
+- [Ulrich Drepper](https://deprogrammaticaipsum.com/ulrich-drepper/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
