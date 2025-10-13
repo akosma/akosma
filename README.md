@@ -26,7 +26,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 085: Memory Management](https://deprogrammaticaipsum.com/issue-085-memory-management/)
+- [Issue 085: Memory Management](https://deprogrammaticaipsum.com/issue-85-memory-management/)
 - [Souvenir](https://deprogrammaticaipsum.com/souvenir/)
 - [Ryan Baker](https://deprogrammaticaipsum.com/ryan-baker/)
 - [Ulrich Drepper](https://deprogrammaticaipsum.com/ulrich-drepper/)
