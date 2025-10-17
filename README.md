@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Uses and Abuses of Jira](https://akos.ma/blog/uses-and-abuses-of-jira/)
 - [Vibe Coding with Cursor](https://akos.ma/blog/vibe-coding-with-cursor/)
 - [The True Episode 7](https://akos.ma/blog/the-true-episode-7/)
 - [Gym](https://akos.ma/blog/gym/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Objective-C and Cocoa in 2025](https://akos.ma/blog/objective-c-and-cocoa-in-2025/)
 - [Open Source Forbidden](https://akos.ma/blog/open-source-forbidden/)
 - [Conway in NASM](https://akos.ma/blog/conway-in-nasm/)
-- [Lucky Man](https://akos.ma/blog/lucky-man/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
