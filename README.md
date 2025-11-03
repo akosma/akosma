@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 085: Memory Management](https://deprogrammaticaipsum.com/issue-85-memory-management/)
-- [Souvenir](https://deprogrammaticaipsum.com/souvenir/)
-- [Ryan Baker](https://deprogrammaticaipsum.com/ryan-baker/)
-- [Ulrich Drepper](https://deprogrammaticaipsum.com/ulrich-drepper/)
+- [Issue 086: Borland](https://deprogrammaticaipsum.com/issue-86-borland/)
+- [A Roller Coaster Of Emotions](https://deprogrammaticaipsum.com/a-roller-coaster-of-emotions/)
+- [Philippe Kahn](https://deprogrammaticaipsum.com/philippe-kahn/)
+- [Federico Biancuzzi, Shane Warden, &amp; Anders Hejlsberg](https://deprogrammaticaipsum.com/federico-biancuzzi-shane-warden-anders-hejlsberg/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
