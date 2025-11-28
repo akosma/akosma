@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Arturito](https://akos.ma/blog/arturito/)
 - [Drones Over Buenos Aires](https://akos.ma/blog/drones-over-buenos-aires/)
 - [The Unexpected](https://akos.ma/blog/the-unexpected/)
 - [Favorite Live Albums](https://akos.ma/blog/favorite-live-albums/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The Clock PWA](https://akos.ma/blog/the-clock-pwa/)
 - [Uses and Abuses of Jira](https://akos.ma/blog/uses-and-abuses-of-jira/)
 - [Vibe Coding with Cursor](https://akos.ma/blog/vibe-coding-with-cursor/)
-- [The True Episode 7](https://akos.ma/blog/the-true-episode-7/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
