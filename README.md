@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 086: Borland](https://deprogrammaticaipsum.com/issue-86-borland/)
-- [A Roller Coaster Of Emotions](https://deprogrammaticaipsum.com/a-roller-coaster-of-emotions/)
-- [Philippe Kahn](https://deprogrammaticaipsum.com/philippe-kahn/)
-- [Federico Biancuzzi, Shane Warden, &amp; Anders Hejlsberg](https://deprogrammaticaipsum.com/federico-biancuzzi-shane-warden-anders-hejlsberg/)
+- [Issue 087: Considered Harmful](https://deprogrammaticaipsum.com/issue-87-considered-harmful/)
+- [Harmfully Considered](https://deprogrammaticaipsum.com/harmfully-considered/)
+- [Phil Nash](https://deprogrammaticaipsum.com/phil-nash/)
+- [Joanna Rutkowska](https://deprogrammaticaipsum.com/joanna-rutkowska/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
