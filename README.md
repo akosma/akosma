@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Better Than the Algorithm](https://akos.ma/blog/better-than-the-algorithm/)
 - [Fernando](https://akos.ma/blog/fernando/)
 - [20 Years of Linux](https://akos.ma/blog/20-years-of-linux/)
 - [Arturito](https://akos.ma/blog/arturito/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [The Unexpected](https://akos.ma/blog/the-unexpected/)
 - [Favorite Live Albums](https://akos.ma/blog/favorite-live-albums/)
 - [Kroki](https://akos.ma/blog/kroki/)
-- [The Clock PWA](https://akos.ma/blog/the-clock-pwa/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
