@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 087: Considered Harmful](https://deprogrammaticaipsum.com/issue-87-considered-harmful/)
-- [Harmfully Considered](https://deprogrammaticaipsum.com/harmfully-considered/)
-- [Phil Nash](https://deprogrammaticaipsum.com/phil-nash/)
-- [Joanna Rutkowska](https://deprogrammaticaipsum.com/joanna-rutkowska/)
+- [Issue 088: Containers](https://deprogrammaticaipsum.com/issue-88-containers/)
+- [Shipping Your Computer](https://deprogrammaticaipsum.com/shipping-your-computer/)
+- [Solomon Hykes](https://deprogrammaticaipsum.com/solomon-hykes/)
+- [James Turnbull](https://deprogrammaticaipsum.com/james-turnbull/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
