@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Chespirito](https://akos.ma/blog/chespirito/)
 - [The Playlist of 2025](https://akos.ma/blog/the-playlist-of-2025/)
 - [Best Books of 2025](https://akos.ma/blog/best-books-of-2025/)
 - [Shows and Movies of 2025](https://akos.ma/blog/shows-and-movies-of-2025/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Better Than the Algorithm](https://akos.ma/blog/better-than-the-algorithm/)
 - [Fernando](https://akos.ma/blog/fernando/)
 - [20 Years of Linux](https://akos.ma/blog/20-years-of-linux/)
-- [Arturito](https://akos.ma/blog/arturito/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
