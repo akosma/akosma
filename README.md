@@ -26,10 +26,10 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
-- [Issue 089: Ruby](https://deprogrammaticaipsum.com/issue-89-ruby/)
-- [The Great Xerox Compromise](https://deprogrammaticaipsum.com/the-great-xerox-compromise/)
-- [The Putrid Stench Of Decadence](https://deprogrammaticaipsum.com/the-putrid-stench-of-decadence/)
-- [Eileen Uchitelle](https://deprogrammaticaipsum.com/eileen-uchitelle/)
+- [Issue 090: Startups](https://deprogrammaticaipsum.com/issue-90-startups/)
+- [Flux](https://deprogrammaticaipsum.com/flux/)
+- [Exercise Those Stock Options, If You Can](https://deprogrammaticaipsum.com/exercise-those-stock-options-if-you-can/)
+- [futureform](https://deprogrammaticaipsum.com/futureform/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
