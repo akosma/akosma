@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Leila Gharani](https://akos.ma/blog/leila-gharani/)
 - [Magdalena Tempranísimo](https://akos.ma/blog/magdalena-tempranisimo/)
 - [How to Show Untagged Items in Zotero](https://akos.ma/blog/how-to-show-untagged-items-in-zotero/)
 - [My Favorite Place in Geneva](https://akos.ma/blog/my-favorite-place-in-geneva/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Mud, perhaps](https://akos.ma/blog/mud-perhaps/)
 - [Mirtha Legrand](https://akos.ma/blog/mirtha-legrand/)
 - [Chespirito](https://akos.ma/blog/chespirito/)
-- [The Playlist of 2025](https://akos.ma/blog/the-playlist-of-2025/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
