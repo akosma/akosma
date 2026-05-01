@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Keychron Q3 Max](https://akos.ma/blog/keychron-q3-max/)
 - [Bestseller Talk](https://akos.ma/blog/bestseller-talk/)
 - [Learning A New Programming Language per Year in the Age of AI](https://akos.ma/blog/learning-a-new-programming-language-per-year-in-the-age-of-ai/)
 - [Systems of Linear Equations](https://akos.ma/blog/systems-of-linear-equations/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Three Albums about the USA](https://akos.ma/blog/three-albums-about-the-usa/)
 - [SOHCAHTOA](https://akos.ma/blog/sohcahtoa/)
 - [Leila Gharani](https://akos.ma/blog/leila-gharani/)
-- [Magdalena Tempranísimo](https://akos.ma/blog/magdalena-tempranisimo/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
