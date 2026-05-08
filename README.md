@@ -13,6 +13,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [eiPott](https://akos.ma/blog/eipott/)
 - [Keychron Q3 Max](https://akos.ma/blog/keychron-q3-max/)
 - [Bestseller Talk](https://akos.ma/blog/bestseller-talk/)
 - [Learning A New Programming Language per Year in the Age of AI](https://akos.ma/blog/learning-a-new-programming-language-per-year-in-the-age-of-ai/)
@@ -20,7 +21,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [How To Connect Boatswain to OBS Studio](https://akos.ma/blog/how-to-connect-boatswain-to-obs-studio/)
 - [Three Albums about the USA](https://akos.ma/blog/three-albums-about-the-usa/)
 - [SOHCAHTOA](https://akos.ma/blog/sohcahtoa/)
-- [Leila Gharani](https://akos.ma/blog/leila-gharani/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
