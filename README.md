@@ -30,6 +30,9 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Have You HURD The GNUs?](https://deprogrammaticaipsum.com/have-you-hurd-the-gnus/)
 - [Overchoice In The New Non-Aligned World](https://deprogrammaticaipsum.com/overchoice-in-the-new-non-aligned-world/)
 - [Hannu Puttonen](https://deprogrammaticaipsum.com/hannu-puttonen/)
+- [Linus Torvalds &amp; David Diamond](https://deprogrammaticaipsum.com/linux-torvalds-david-diamond/)
+- [Michael Kerrisk](https://deprogrammaticaipsum.com/michael-kerrisk/)
+- [Issue 091: Entertainment](https://deprogrammaticaipsum.com/issue-91-entertainment/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
