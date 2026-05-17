@@ -17,6 +17,8 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Systems of Linear Equations](https://akos.ma/blog/systems-of-linear-equations/)
 - [How To Connect Boatswain to OBS Studio](https://akos.ma/blog/how-to-connect-boatswain-to-obs-studio/)
 - [Three Albums about the USA](https://akos.ma/blog/three-albums-about-the-usa/)
+- [SOHCAHTOA](https://akos.ma/blog/sohcahtoa/)
+- [Leila Gharani](https://akos.ma/blog/leila-gharani/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
