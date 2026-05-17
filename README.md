@@ -31,6 +31,9 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Linus Torvalds &amp; David Diamond](https://deprogrammaticaipsum.com/linux-torvalds-david-diamond/)
 - [Michael Kerrisk](https://deprogrammaticaipsum.com/michael-kerrisk/)
 - [Issue 091: Entertainment](https://deprogrammaticaipsum.com/issue-91-entertainment/)
+- [Pushing the Envelope](https://deprogrammaticaipsum.com/pushing-the-envelope/)
+- [Panem Et Circenses](https://deprogrammaticaipsum.com/panem-et-circenses/)
+- [L33T GUY](https://deprogrammaticaipsum.com/l33t-guy/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
