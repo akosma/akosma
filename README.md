@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 093: Functional Programming](https://deprogrammaticaipsum.com/issue-093-functional-programming/)
+- [Evading Von Neumann](https://deprogrammaticaipsum.com/evading-von-neumann/)
+- [Functional Programming: The Good Parts](https://deprogrammaticaipsum.com/functional-programming-the-good-parts/)
+- [Joe Armstrong](https://deprogrammaticaipsum.com/joe-armstrong/)
+- [Guy Steele &amp; Gerry Sussman](https://deprogrammaticaipsum.com/guy-steele-gerry-sussman/)
+- [Philip Wadler](https://deprogrammaticaipsum.com/philip-wadler/)
 - [Issue 092: Linux](https://deprogrammaticaipsum.com/issue-92-linux/)
 - [Have You HURD The GNUs?](https://deprogrammaticaipsum.com/have-you-hurd-the-gnus/)
 - [Overchoice In The New Non-Aligned World](https://deprogrammaticaipsum.com/overchoice-in-the-new-non-aligned-world/)
 - [Hannu Puttonen](https://deprogrammaticaipsum.com/hannu-puttonen/)
-- [Linus Torvalds &amp; David Diamond](https://deprogrammaticaipsum.com/linux-torvalds-david-diamond/)
-- [Michael Kerrisk](https://deprogrammaticaipsum.com/michael-kerrisk/)
-- [Issue 091: Entertainment](https://deprogrammaticaipsum.com/issue-91-entertainment/)
-- [Pushing the Envelope](https://deprogrammaticaipsum.com/pushing-the-envelope/)
-- [Panem Et Circenses](https://deprogrammaticaipsum.com/panem-et-circenses/)
-- [L33T GUY](https://deprogrammaticaipsum.com/l33t-guy/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
