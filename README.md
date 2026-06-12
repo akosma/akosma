@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Neovim](https://akos.ma/blog/neovim/)
 - [Conselho](https://akos.ma/blog/conselho/)
 - [What&#39;s in Your Container? Securing the Software Supply Chain Without Slowing Down](https://akos.ma/blog/whats-in-your-container-securing-the-software-supply-chain-without-slowing-down/)
 - [Oktubre](https://akos.ma/blog/oktubre/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Bestseller Talk](https://akos.ma/blog/bestseller-talk/)
 - [Learning A New Programming Language per Year in the Age of AI](https://akos.ma/blog/learning-a-new-programming-language-per-year-in-the-age-of-ai/)
 - [Systems of Linear Equations](https://akos.ma/blog/systems-of-linear-equations/)
-- [How To Connect Boatswain to OBS Studio](https://akos.ma/blog/how-to-connect-boatswain-to-obs-studio/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
