@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Goodbye, Cursor](https://akos.ma/blog/goodbye-cursor/)
 - [Conway in Haskell](https://akos.ma/blog/conway-in-haskell/)
 - [Neovim](https://akos.ma/blog/neovim/)
 - [Conselho](https://akos.ma/blog/conselho/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [eiPott](https://akos.ma/blog/eipott/)
 - [Keychron Q3 Max](https://akos.ma/blog/keychron-q3-max/)
 - [Bestseller Talk](https://akos.ma/blog/bestseller-talk/)
-- [Learning A New Programming Language per Year in the Age of AI](https://akos.ma/blog/learning-a-new-programming-language-per-year-in-the-age-of-ai/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
