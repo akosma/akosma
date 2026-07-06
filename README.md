@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 094: Killer Apps](https://deprogrammaticaipsum.com/issue-94-killer-apps/)
+- [Where Are The Killer Apps?](https://deprogrammaticaipsum.com/where-are-the-killer-apps/)
+- [Behold! The App Killers](https://deprogrammaticaipsum.com/behold-the-app-killers/)
+- [Dan Bricklin](https://deprogrammaticaipsum.com/dan-bricklin/)
+- [Chris Zamara &amp; Nick Sullivan](https://deprogrammaticaipsum.com/chris-zamara-nick-sullivan/)
 - [Issue 093: Functional Programming](https://deprogrammaticaipsum.com/issue-093-functional-programming/)
 - [Evading Von Neumann](https://deprogrammaticaipsum.com/evading-von-neumann/)
 - [Functional Programming: The Good Parts](https://deprogrammaticaipsum.com/functional-programming-the-good-parts/)
 - [Joe Armstrong](https://deprogrammaticaipsum.com/joe-armstrong/)
 - [Guy Steele &amp; Gerry Sussman](https://deprogrammaticaipsum.com/guy-steele-gerry-sussman/)
-- [Philip Wadler](https://deprogrammaticaipsum.com/philip-wadler/)
-- [Issue 092: Linux](https://deprogrammaticaipsum.com/issue-92-linux/)
-- [Have You HURD The GNUs?](https://deprogrammaticaipsum.com/have-you-hurd-the-gnus/)
-- [Overchoice In The New Non-Aligned World](https://deprogrammaticaipsum.com/overchoice-in-the-new-non-aligned-world/)
-- [Hannu Puttonen](https://deprogrammaticaipsum.com/hannu-puttonen/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
