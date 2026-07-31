@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [How to Solve Webcam Shenanigans With systemd](https://akos.ma/blog/how-to-solve-webcam-shenanigans-with-systemd/)
 - [Birome](https://akos.ma/blog/birome/)
 - [Ubuntu 5.10 on QEMU](https://akos.ma/blog/ubuntu-5.10-on-qemu/)
 - [Tango](https://akos.ma/blog/tango/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Neovim](https://akos.ma/blog/neovim/)
 - [Conselho](https://akos.ma/blog/conselho/)
 - [What&#39;s in Your Container? Securing the Software Supply Chain Without Slowing Down](https://akos.ma/blog/whats-in-your-container-securing-the-software-supply-chain-without-slowing-down/)
-- [Oktubre](https://akos.ma/blog/oktubre/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
