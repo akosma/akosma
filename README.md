@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 095: Fortran](https://deprogrammaticaipsum.com/issue-95-fortran/)
+- [Immortal Elder Gods](https://deprogrammaticaipsum.com/immortal-elder-gods/)
+- [The Fortran Multiverse Of Oblivion](https://deprogrammaticaipsum.com/the-fortran-multiverse-of-oblivion/)
+- [John Backus](https://deprogrammaticaipsum.com/john-backus/)
+- [Arthur S. Radford](https://deprogrammaticaipsum.com/arthur-s-radford/)
+- [Roger Emanuel Kaufman](https://deprogrammaticaipsum.com/roger-emanuel-kaufman/)
 - [Issue 094: Killer Apps](https://deprogrammaticaipsum.com/issue-94-killer-apps/)
 - [Where Are The Killer Apps?](https://deprogrammaticaipsum.com/where-are-the-killer-apps/)
 - [Behold! The App Killers](https://deprogrammaticaipsum.com/behold-the-app-killers/)
 - [Dan Bricklin](https://deprogrammaticaipsum.com/dan-bricklin/)
-- [Chris Zamara &amp; Nick Sullivan](https://deprogrammaticaipsum.com/chris-zamara-nick-sullivan/)
-- [Issue 093: Functional Programming](https://deprogrammaticaipsum.com/issue-093-functional-programming/)
-- [Evading Von Neumann](https://deprogrammaticaipsum.com/evading-von-neumann/)
-- [Functional Programming: The Good Parts](https://deprogrammaticaipsum.com/functional-programming-the-good-parts/)
-- [Joe Armstrong](https://deprogrammaticaipsum.com/joe-armstrong/)
-- [Guy Steele &amp; Gerry Sussman](https://deprogrammaticaipsum.com/guy-steele-gerry-sussman/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
