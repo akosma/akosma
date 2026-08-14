@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [How to Embed Images as Base64 Strings in Hugo](https://akos.ma/blog/how-to-embed-images-as-base64-strings-in-hugo/)
 - [Playing With Admonitions](https://akos.ma/blog/playing-with-admonitions/)
 - [How to Solve Webcam Shenanigans With systemd](https://akos.ma/blog/how-to-solve-webcam-shenanigans-with-systemd/)
 - [Birome](https://akos.ma/blog/birome/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Goodbye, Cursor](https://akos.ma/blog/goodbye-cursor/)
 - [Conway in Haskell](https://akos.ma/blog/conway-in-haskell/)
 - [Neovim](https://akos.ma/blog/neovim/)
-- [Conselho](https://akos.ma/blog/conselho/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
