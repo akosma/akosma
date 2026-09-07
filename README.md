@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 096: Software Factories](https://deprogrammaticaipsum.com/issue-96-software-factories/)
+- [Fully Automated Luxury Communistical Software Factories](https://deprogrammaticaipsum.com/fully-automated-luxury-communistical-software-factories/)
+- [On The Illusion Of Control](https://deprogrammaticaipsum.com/on-the-illusion-of-control/)
+- [Damon Edwards](https://deprogrammaticaipsum.com/damon-edwards/)
+- [Don Batory](https://deprogrammaticaipsum.com/don-batory/)
+- [Anneke Kleppe, Jos Warmer, Wim Bast, Ivar Jacobson, &amp; Pan-Wei Ng](https://deprogrammaticaipsum.com/anneke-kleppe-jos-warmer-wim-bast-ivar-jacobson-pan-wei-ng/)
 - [Issue 095: Fortran](https://deprogrammaticaipsum.com/issue-95-fortran/)
 - [Immortal Elder Gods](https://deprogrammaticaipsum.com/immortal-elder-gods/)
 - [The Fortran Multiverse Of Oblivion](https://deprogrammaticaipsum.com/the-fortran-multiverse-of-oblivion/)
 - [John Backus](https://deprogrammaticaipsum.com/john-backus/)
-- [Arthur S. Radford](https://deprogrammaticaipsum.com/arthur-s-radford/)
-- [Roger Emanuel Kaufman](https://deprogrammaticaipsum.com/roger-emanuel-kaufman/)
-- [Issue 094: Killer Apps](https://deprogrammaticaipsum.com/issue-94-killer-apps/)
-- [Where Are The Killer Apps?](https://deprogrammaticaipsum.com/where-are-the-killer-apps/)
-- [Behold! The App Killers](https://deprogrammaticaipsum.com/behold-the-app-killers/)
-- [Dan Bricklin](https://deprogrammaticaipsum.com/dan-bricklin/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
