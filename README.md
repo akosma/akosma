@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The Checklist](https://akos.ma/blog/the-checklist/)
 - [Shima Uta](https://akos.ma/blog/shima-uta/)
 - [30 Years on the Web](https://akos.ma/blog/30-years-on-the-web/)
 - [Ghostty](https://akos.ma/blog/ghostty/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Birome](https://akos.ma/blog/birome/)
 - [Ubuntu 5.10 on QEMU](https://akos.ma/blog/ubuntu-5.10-on-qemu/)
 - [Tango](https://akos.ma/blog/tango/)
-- [NeXTClock](https://akos.ma/blog/nextclock/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
