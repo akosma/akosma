@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Old Smuggler](https://akos.ma/blog/old-smuggler/)
 - [Notes About &quot;Super Nintendo&quot; by Keza MacDonald](https://akos.ma/blog/notes-about-super-nintendo-by-keza-macdonald/)
 - [The Checklist](https://akos.ma/blog/the-checklist/)
 - [Shima Uta](https://akos.ma/blog/shima-uta/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Playing With Admonitions](https://akos.ma/blog/playing-with-admonitions/)
 - [How to Solve Webcam Shenanigans With systemd](https://akos.ma/blog/how-to-solve-webcam-shenanigans-with-systemd/)
 - [Birome](https://akos.ma/blog/birome/)
-- [Ubuntu 5.10 on QEMU](https://akos.ma/blog/ubuntu-5.10-on-qemu/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
