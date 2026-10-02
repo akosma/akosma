@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [UAP or UFO, Buenos Aires, 1985](https://akos.ma/blog/uap-or-ufo-buenos-aires-1985/)
 - [Old Smuggler](https://akos.ma/blog/old-smuggler/)
 - [Notes About &quot;Super Nintendo&quot; by Keza MacDonald](https://akos.ma/blog/notes-about-super-nintendo-by-keza-macdonald/)
 - [The Checklist](https://akos.ma/blog/the-checklist/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [How to Embed Images as Base64 Strings in Hugo](https://akos.ma/blog/how-to-embed-images-as-base64-strings-in-hugo/)
 - [Playing With Admonitions](https://akos.ma/blog/playing-with-admonitions/)
 - [How to Solve Webcam Shenanigans With systemd](https://akos.ma/blog/how-to-solve-webcam-shenanigans-with-systemd/)
-- [Birome](https://akos.ma/blog/birome/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
