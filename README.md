@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 097: File Systems](https://deprogrammaticaipsum.com/issue-97-file-systems/)
+- [No File System Is Fit For Purpose](https://deprogrammaticaipsum.com/no-file-system-is-fit-for-purpose/)
+- [Everything Is A File](https://deprogrammaticaipsum.com/everything-is-a-file/)
+- [AT&amp;T Tech Channel](https://deprogrammaticaipsum.com/at-t-tech-channel/)
+- [Apple Computer, Inc.](https://deprogrammaticaipsum.com/apple-computer-inc/)
 - [Issue 096: Software Factories](https://deprogrammaticaipsum.com/issue-96-software-factories/)
 - [Fully Automated Luxury Communistical Software Factories](https://deprogrammaticaipsum.com/fully-automated-luxury-communistical-software-factories/)
 - [On The Illusion Of Control](https://deprogrammaticaipsum.com/on-the-illusion-of-control/)
 - [Damon Edwards](https://deprogrammaticaipsum.com/damon-edwards/)
 - [Don Batory](https://deprogrammaticaipsum.com/don-batory/)
-- [Anneke Kleppe, Jos Warmer, Wim Bast, Ivar Jacobson, &amp; Pan-Wei Ng](https://deprogrammaticaipsum.com/anneke-kleppe-jos-warmer-wim-bast-ivar-jacobson-pan-wei-ng/)
-- [Issue 095: Fortran](https://deprogrammaticaipsum.com/issue-95-fortran/)
-- [Immortal Elder Gods](https://deprogrammaticaipsum.com/immortal-elder-gods/)
-- [The Fortran Multiverse Of Oblivion](https://deprogrammaticaipsum.com/the-fortran-multiverse-of-oblivion/)
-- [John Backus](https://deprogrammaticaipsum.com/john-backus/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
