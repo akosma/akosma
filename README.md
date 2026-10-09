@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Solving Systems of Linear Equations with Matrices](https://akos.ma/blog/solving-systems-of-linear-equations-with-matrices/)
 - [UAP or UFO, Buenos Aires, 1985](https://akos.ma/blog/uap-or-ufo-buenos-aires-1985/)
 - [Old Smuggler](https://akos.ma/blog/old-smuggler/)
 - [Notes About &quot;Super Nintendo&quot; by Keza MacDonald](https://akos.ma/blog/notes-about-super-nintendo-by-keza-macdonald/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Ghostty](https://akos.ma/blog/ghostty/)
 - [How to Embed Images as Base64 Strings in Hugo](https://akos.ma/blog/how-to-embed-images-as-base64-strings-in-hugo/)
 - [Playing With Admonitions](https://akos.ma/blog/playing-with-admonitions/)
-- [How to Solve Webcam Shenanigans With systemd](https://akos.ma/blog/how-to-solve-webcam-shenanigans-with-systemd/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
