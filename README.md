@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Giger Museum](https://akos.ma/blog/giger-museum/)
 - [Embedding PDFs on Web Pages](https://akos.ma/blog/embedding-pdfs-on-web-pages/)
 - [Solving Systems of Linear Equations with Matrices](https://akos.ma/blog/solving-systems-of-linear-equations-with-matrices/)
 - [UAP or UFO, Buenos Aires, 1985](https://akos.ma/blog/uap-or-ufo-buenos-aires-1985/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Shima Uta](https://akos.ma/blog/shima-uta/)
 - [30 Years on the Web](https://akos.ma/blog/30-years-on-the-web/)
 - [Ghostty](https://akos.ma/blog/ghostty/)
-- [How to Embed Images as Base64 Strings in Hugo](https://akos.ma/blog/how-to-embed-images-as-base64-strings-in-hugo/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
