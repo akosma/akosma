@@ -24,16 +24,16 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Magazine: De Programmatica Ipsum
 
 <!-- DEPROGIPSUM:START -->
+- [Issue 098: Apple](https://deprogrammaticaipsum.com/issue-98-apple/)
+- [How Could That Possibly Work?](https://deprogrammaticaipsum.com/how-could-that-possibly-work/)
+- [The Subtle Art Of Hating Developers](https://deprogrammaticaipsum.com/the-subtle-art-of-hating-developers/)
+- [Steve Gets Trolled](https://deprogrammaticaipsum.com/steve-gets-trolled/)
+- [Sonia Devillers](https://deprogrammaticaipsum.com/sonia-devillers/)
+- [Jim Carlton](https://deprogrammaticaipsum.com/jim-carlton/)
+- [Andy Hertzfeld](https://deprogrammaticaipsum.com/andy-hertzfeld/)
 - [Issue 097: File Systems](https://deprogrammaticaipsum.com/issue-97-file-systems/)
 - [No File System Is Fit For Purpose](https://deprogrammaticaipsum.com/no-file-system-is-fit-for-purpose/)
 - [Everything Is A File](https://deprogrammaticaipsum.com/everything-is-a-file/)
-- [AT&amp;T Tech Channel](https://deprogrammaticaipsum.com/at-t-tech-channel/)
-- [Apple Computer, Inc.](https://deprogrammaticaipsum.com/apple-computer-inc/)
-- [Issue 096: Software Factories](https://deprogrammaticaipsum.com/issue-96-software-factories/)
-- [Fully Automated Luxury Communistical Software Factories](https://deprogrammaticaipsum.com/fully-automated-luxury-communistical-software-factories/)
-- [On The Illusion Of Control](https://deprogrammaticaipsum.com/on-the-illusion-of-control/)
-- [Damon Edwards](https://deprogrammaticaipsum.com/damon-edwards/)
-- [Don Batory](https://deprogrammaticaipsum.com/don-batory/)
 <!-- DEPROGIPSUM:END -->
 
 ## Interests
