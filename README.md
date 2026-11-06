@@ -9,6 +9,8 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [Visual Studio Code](https://akos.ma/blog/visual-studio-code/)
+- [Patterns in AI-Driven Software Development](https://akos.ma/blog/patterns-in-ai-driven-software-development/)
 - [Giger Museum](https://akos.ma/blog/giger-museum/)
 - [Embedding PDFs on Web Pages](https://akos.ma/blog/embedding-pdfs-on-web-pages/)
 - [Solving Systems of Linear Equations with Matrices](https://akos.ma/blog/solving-systems-of-linear-equations-with-matrices/)
@@ -17,8 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [Notes About &quot;Super Nintendo&quot; by Keza MacDonald](https://akos.ma/blog/notes-about-super-nintendo-by-keza-macdonald/)
 - [The Checklist](https://akos.ma/blog/the-checklist/)
 - [Shima Uta](https://akos.ma/blog/shima-uta/)
-- [30 Years on the Web](https://akos.ma/blog/30-years-on-the-web/)
-- [Ghostty](https://akos.ma/blog/ghostty/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
