@@ -9,6 +9,7 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 ## Blog: akos.ma
 
 <!-- AKOSMA:START -->
+- [The IT Dead End](https://akos.ma/blog/the-it-dead-end/)
 - [Pumper Nic](https://akos.ma/blog/pumper-nic/)
 - [Visual Studio Code](https://akos.ma/blog/visual-studio-code/)
 - [Patterns in AI-Driven Software Development](https://akos.ma/blog/patterns-in-ai-driven-software-development/)
@@ -18,7 +19,6 @@ When not coding or teaching, Adrian likes to spend time with his wife Claudia, h
 - [UAP or UFO, Buenos Aires, 1985](https://akos.ma/blog/uap-or-ufo-buenos-aires-1985/)
 - [Old Smuggler](https://akos.ma/blog/old-smuggler/)
 - [Notes About &quot;Super Nintendo&quot; by Keza MacDonald](https://akos.ma/blog/notes-about-super-nintendo-by-keza-macdonald/)
-- [The Checklist](https://akos.ma/blog/the-checklist/)
 <!-- AKOSMA:END -->
 
 ## Magazine: De Programmatica Ipsum
